@@ -1,0 +1,10 @@
+
+SOLVESPACE_CLI = "solvespace-cli"
+TOP = tup.getcwd()
+
+BLENDER = export PYTHONDONTWRITEBYTECODE=1; blender
+IMPORT_STL = blender -b --python import_stl.py --
+
+: foreach *.slvs |> $(SOLVESPACE_CLI) export-mesh -t 0.043 --output %o  %f |> generated/%B.stl {stl}
+: foreach generated/*.stl |> $(IMPORT_STL) --infile %f --outfile %o |> generated/%B.blend {blends}
+
