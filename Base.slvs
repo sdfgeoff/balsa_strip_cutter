@@ -911,7 +911,7 @@ Param.val=-6.00000000000000000000
 AddParam
 
 Param.h.v.=00110011
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=00110013
@@ -919,7 +919,7 @@ Param.val=6.00000000000000000000
 AddParam
 
 Param.h.v.=00110014
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=00120010
@@ -927,23 +927,23 @@ Param.val=6.00000000000000000000
 AddParam
 
 Param.h.v.=00120011
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=00120013
-Param.val=4.04438688096433107688
+Param.val=4.00000000000000000000
 AddParam
 
 Param.h.v.=00120014
-Param.val=9.99915921352531356092
+Param.val=9.99915810160008611263
 AddParam
 
 Param.h.v.=00140010
-Param.val=-3.95561311903566847903
+Param.val=-4.00000000000000000000
 AddParam
 
 Param.h.v.=00140011
-Param.val=9.99915921352531356092
+Param.val=9.99915810160008611263
 AddParam
 
 Param.h.v.=00140013
@@ -951,39 +951,39 @@ Param.val=-6.00000000000000000000
 AddParam
 
 Param.h.v.=00140014
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=00150010
-Param.val=5.37968865331030254850
+Param.val=5.37669348001054459019
 AddParam
 
 Param.h.v.=00150011
-Param.val=18.49925941657655314998
+Param.val=18.49925830465132747804
 AddParam
 
 Param.h.v.=00150013
-Param.val=5.86828731779087231502
+Param.val=5.86478726582896570108
 AddParam
 
 Param.h.v.=00150014
-Param.val=18.39309282546709312101
+Param.val=18.39079422651740713945
 AddParam
 
 Param.h.v.=00150016
-Param.val=5.37968865331030254850
+Param.val=5.37669348001054459019
 AddParam
 
 Param.h.v.=00150017
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=00160010
-Param.val=5.37968865331030254850
+Param.val=5.37669348001054459019
 AddParam
 
 Param.h.v.=00160011
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=00160013
@@ -991,111 +991,108 @@ Param.val=-6.00000000000000000000
 AddParam
 
 Param.h.v.=00160014
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=00170010
-Param.val=5.86828731779087231502
+Param.val=5.86478726582896570108
 AddParam
 
 Param.h.v.=00170011
-Param.val=18.39309282546709312101
+Param.val=18.39079422651740713945
 AddParam
 
 Param.h.v.=00170013
-Param.val=4.04438688096433107688
+Param.val=4.00000000000000000000
 AddParam
 
 Param.h.v.=00170014
-Param.val=9.99915921352531356092
+Param.val=9.99915810160008611263
 AddParam
 
 Param.h.v.=00180010
-Param.val=-5.37368699358880252959
+Param.val=-5.37669348001054459019
 AddParam
 
 Param.h.v.=00180011
-Param.val=18.49925941657655314998
+Param.val=18.49925830465132747804
 AddParam
 
 Param.h.v.=00180013
-Param.val=-5.37368699358880252959
+Param.val=-5.37669348001054459019
 AddParam
 
 Param.h.v.=00180014
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=00180016
-Param.val=-5.86126618480198136041
+Param.val=-5.86478726582896570108
 AddParam
 
 Param.h.v.=00180017
-Param.val=18.38850503835202232494
+Param.val=18.39079422651740713945
 AddParam
 
 Param.h.v.=00190010
-Param.val=-5.86126618480198136041
+Param.val=-5.86478726582896570108
 AddParam
 
 Param.h.v.=00190011
-Param.val=18.38850503835202232494
+Param.val=18.39079422651740713945
 AddParam
 
 Param.h.v.=00190013
-Param.val=-3.95561311903566847903
+Param.val=-4.00000000000000000000
 AddParam
 
 Param.h.v.=00190014
-Param.val=9.99915921352531356092
+Param.val=9.99915810160008611263
 AddParam
 
 Param.h.v.=001a0010
-Param.val=-5.37368699358880252959
+Param.val=-5.37669348001054459019
 AddParam
 
 Param.h.v.=001a0011
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=001a0013
-Param.val=5.37968865331030254850
+Param.val=5.37669348001054459019
 AddParam
 
 Param.h.v.=001a0014
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=001b0010
-Param.val=0.04438688096433122954
 AddParam
 
 Param.h.v.=001b0011
-Param.val=9.99925941657655314998
+Param.val=9.99925830465132747804
 AddParam
 
 Param.h.v.=001c0010
-Param.val=0.04438688096433122954
 AddParam
 
 Param.h.v.=001c0011
-Param.val=9.99925941657655314998
+Param.val=9.99925830465132747804
 AddParam
 
 Param.h.v.=001c0013
-Param.val=0.04438688096433122954
 AddParam
 
 Param.h.v.=001c0014
-Param.val=18.99925941657655314998
+Param.val=18.99925830465132747804
 AddParam
 
 Param.h.v.=001d0010
-Param.val=0.04438688096433122954
+Param.val=-0.00000000000000000000
 AddParam
 
 Param.h.v.=001d0011
-Param.val=14.49925830465132747804
+Param.val=14.49925830606329490990
 AddParam
 
 Param.h.v.=001d0040
@@ -1122,7 +1119,7 @@ Param.val=-3.60000000000000008882
 AddParam
 
 Param.h.v.=00230014
-Param.val=-6.57846208100787688267
+Param.val=-6.57846096767068377886
 AddParam
 
 Param.h.v.=00240010
@@ -1130,14 +1127,14 @@ Param.val=-3.60000000000000008882
 AddParam
 
 Param.h.v.=00240011
-Param.val=-6.57846208100787688267
+Param.val=-6.57846096767068377886
 AddParam
 
 Param.h.v.=00240013
 AddParam
 
 Param.h.v.=00240014
-Param.val=-8.65692305009052986975
+Param.val=-8.65692193675333676595
 AddParam
 
 Param.h.v.=00250010
@@ -1169,7 +1166,7 @@ Param.val=3.60000000000000008882
 AddParam
 
 Param.h.v.=00260014
-Param.val=-6.57846208100787688267
+Param.val=-6.57846096767068377886
 AddParam
 
 Param.h.v.=00270010
@@ -1177,21 +1174,22 @@ Param.val=3.60000000000000008882
 AddParam
 
 Param.h.v.=00270011
-Param.val=-6.57846208100787688267
+Param.val=-6.57846096767068377886
 AddParam
 
 Param.h.v.=00270013
 AddParam
 
 Param.h.v.=00270014
-Param.val=-8.65692305009052986975
+Param.val=-8.65692193675333676595
 AddParam
 
 Param.h.v.=00280010
+Param.val=-0.00000000000000000000
 AddParam
 
 Param.h.v.=00280011
-Param.val=-4.50000111192522567194
+Param.val=-4.49999999858803256814
 AddParam
 
 Param.h.v.=00280040
@@ -1227,7 +1225,7 @@ Param.val=-10.41433733626649349446
 AddParam
 
 Param.h.v.=002a0014
-Param.val=12.13250575590367752454
+Param.val=12.13250575590367930090
 AddParam
 
 Param.h.v.=002b0010
@@ -1235,7 +1233,7 @@ Param.val=-10.41433733626649349446
 AddParam
 
 Param.h.v.=002b0011
-Param.val=12.13250575590367752454
+Param.val=12.13250575590367930090
 AddParam
 
 Param.h.v.=002b0013
@@ -1243,7 +1241,7 @@ Param.val=-8.91433733626649349446
 AddParam
 
 Param.h.v.=002b0014
-Param.val=12.13250575590367752454
+Param.val=12.13250575590367930090
 AddParam
 
 Param.h.v.=002c0010
@@ -1251,11 +1249,11 @@ Param.val=-8.91433733626649349446
 AddParam
 
 Param.h.v.=002c0011
-Param.val=12.13250575590367752454
+Param.val=12.13250575590367930090
 AddParam
 
 Param.h.v.=002c0013
-Param.val=-9.71252740659368996035
+Param.val=-9.71252740659369351306
 AddParam
 
 Param.h.v.=002c0014
@@ -1263,7 +1261,7 @@ Param.val=10.75000000000000000000
 AddParam
 
 Param.h.v.=002d0010
-Param.val=-9.71252740659368996035
+Param.val=-9.71252740659369351306
 AddParam
 
 Param.h.v.=002d0011
@@ -1295,59 +1293,58 @@ Param.val=10.00000000000000000000
 AddParam
 
 Param.h.v.=002f0010
-Param.val=-3.95561311903566847903
+Param.val=-4.00000000000000000000
 AddParam
 
 Param.h.v.=002f0011
-Param.val=9.99915921352531356092
+Param.val=9.99915810160008611263
 AddParam
 
 Param.h.v.=002f0013
-Param.val=-3.95561311903566847903
+Param.val=-4.00000000000000000000
 AddParam
 
 Param.h.v.=002f0014
-Param.val=7.99915921352531356092
+Param.val=7.99915810160008611263
 AddParam
 
 Param.h.v.=00300010
-Param.val=-3.95561311903566847903
+Param.val=-4.00000000000000000000
 AddParam
 
 Param.h.v.=00300011
-Param.val=7.99915921352531356092
+Param.val=7.99915810160008611263
 AddParam
 
 Param.h.v.=00300013
-Param.val=4.04438688096433107688
+Param.val=4.00000000000000000000
 AddParam
 
 Param.h.v.=00300014
-Param.val=7.99915921352531356092
+Param.val=7.99915810160008611263
 AddParam
 
 Param.h.v.=00310010
-Param.val=4.04438688096433107688
+Param.val=4.00000000000000000000
 AddParam
 
 Param.h.v.=00310011
-Param.val=7.99915921352531356092
+Param.val=7.99915810160008611263
 AddParam
 
 Param.h.v.=00310013
-Param.val=4.04438688096433107688
+Param.val=4.00000000000000000000
 AddParam
 
 Param.h.v.=00310014
-Param.val=9.99915921352531356092
+Param.val=9.99915810160008611263
 AddParam
 
 Param.h.v.=00320010
-Param.val=0.04438688096433122954
 AddParam
 
 Param.h.v.=00320011
-Param.val=7.99915921352531356092
+Param.val=7.99915810160008611263
 AddParam
 
 Param.h.v.=80050000
@@ -2135,7 +2132,7 @@ Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
 Entity.actPoint.x=-6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2144,7 +2141,7 @@ Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
 Entity.actPoint.x=6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2162,7 +2159,7 @@ Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
 Entity.actPoint.x=6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2170,8 +2167,8 @@ Entity.h.v=00120002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2188,8 +2185,8 @@ Entity.h.v=00140001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2198,7 +2195,7 @@ Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
 Entity.actPoint.x=-6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2217,8 +2214,8 @@ Entity.h.v=00150001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.49925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.49925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2226,8 +2223,8 @@ Entity.h.v=00150002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=5.86828731779087231502
-Entity.actPoint.y=18.39309282546709312101
+Entity.actPoint.x=5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actVisible=1
 AddEntity
 
@@ -2235,8 +2232,8 @@ Entity.h.v=00150003
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2262,8 +2259,8 @@ Entity.h.v=00160001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2272,7 +2269,7 @@ Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
 Entity.actPoint.x=-6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2289,8 +2286,8 @@ Entity.h.v=00170001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=5.86828731779087231502
-Entity.actPoint.y=18.39309282546709312101
+Entity.actPoint.x=5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actVisible=1
 AddEntity
 
@@ -2298,8 +2295,8 @@ Entity.h.v=00170002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2318,8 +2315,8 @@ Entity.h.v=00180001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=-5.37368699358880252959
-Entity.actPoint.y=18.49925941657655314998
+Entity.actPoint.x=-5.37669348001054459019
+Entity.actPoint.y=18.49925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2327,8 +2324,8 @@ Entity.h.v=00180002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=-5.37368699358880252959
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=-5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2336,8 +2333,8 @@ Entity.h.v=00180003
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=-5.86126618480198136041
-Entity.actPoint.y=18.38850503835202232494
+Entity.actPoint.x=-5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actVisible=1
 AddEntity
 
@@ -2363,8 +2360,8 @@ Entity.h.v=00190001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=-5.86126618480198136041
-Entity.actPoint.y=18.38850503835202232494
+Entity.actPoint.x=-5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actVisible=1
 AddEntity
 
@@ -2372,8 +2369,8 @@ Entity.h.v=00190002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2390,8 +2387,8 @@ Entity.h.v=001a0001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=-5.37368699358880252959
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=-5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2399,8 +2396,8 @@ Entity.h.v=001a0002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2408,8 +2405,7 @@ Entity.h.v=001b0000
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=9.99925941657655314998
+Entity.actPoint.y=9.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2426,8 +2422,7 @@ Entity.h.v=001c0001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=9.99925941657655314998
+Entity.actPoint.y=9.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2435,8 +2430,7 @@ Entity.h.v=001c0002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2454,8 +2448,8 @@ Entity.h.v=001d0001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=14.49925830465132747804
+Entity.actPoint.x=-0.00000000000000000000
+Entity.actPoint.y=14.49925830606329490990
 Entity.actVisible=1
 AddEntity
 
@@ -2480,8 +2474,7 @@ Entity.h.v=00220000
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80060000
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2499,8 +2492,8 @@ Entity.h.v=00230001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2509,8 +2502,8 @@ Entity.h.v=00230002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2528,8 +2521,8 @@ Entity.h.v=00240001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2538,8 +2531,7 @@ Entity.h.v=00240002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=10.34233636648602328023
+Entity.actPoint.y=10.34233636789799071209
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2557,8 +2549,8 @@ Entity.h.v=00250001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2567,8 +2559,8 @@ Entity.h.v=00250002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2586,8 +2578,8 @@ Entity.h.v=00260001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2596,8 +2588,8 @@ Entity.h.v=00260002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2615,8 +2607,8 @@ Entity.h.v=00270001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2625,8 +2617,7 @@ Entity.h.v=00270002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=10.34233636648602328023
+Entity.actPoint.y=10.34233636789799071209
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2645,8 +2636,8 @@ Entity.h.v=00280001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80090000
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=14.49925830465132747804
+Entity.actPoint.x=-0.00000000000000000000
+Entity.actPoint.y=14.49925830606329490990
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -2722,7 +2713,7 @@ Entity.construction=0
 Entity.workplane.v=800b0000
 Entity.actPoint.x=19.19335782158794856400
 Entity.actPoint.y=9.99973911290564743126
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
@@ -2741,7 +2732,7 @@ Entity.construction=0
 Entity.workplane.v=800b0000
 Entity.actPoint.x=19.19335782158794856400
 Entity.actPoint.y=9.99973911290564743126
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
@@ -2751,7 +2742,7 @@ Entity.construction=0
 Entity.workplane.v=800b0000
 Entity.actPoint.x=20.69335782111729571398
 Entity.actPoint.y=9.99977668904985073084
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
@@ -2770,7 +2761,7 @@ Entity.construction=0
 Entity.workplane.v=800b0000
 Entity.actPoint.x=20.69335782111729571398
 Entity.actPoint.y=9.99977668904985073084
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
@@ -2778,7 +2769,7 @@ Entity.h.v=002c0002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=800b0000
-Entity.actPoint.x=19.89516775104054602252
+Entity.actPoint.x=19.89516775104054246981
 Entity.actPoint.y=9.99975669377972842256
 Entity.actPoint.z=9.25000000000000177636
 Entity.actVisible=1
@@ -2797,7 +2788,7 @@ Entity.h.v=002d0001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=800b0000
-Entity.actPoint.x=19.89516775104054602252
+Entity.actPoint.x=19.89516775104054246981
 Entity.actPoint.y=9.99975669377972842256
 Entity.actPoint.z=9.25000000000000177636
 Entity.actVisible=1
@@ -2855,8 +2846,8 @@ Entity.h.v=002f0001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2864,8 +2855,8 @@ Entity.h.v=002f0002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2882,8 +2873,8 @@ Entity.h.v=00300001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2891,8 +2882,8 @@ Entity.h.v=00300002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2909,8 +2900,8 @@ Entity.h.v=00310001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2918,8 +2909,8 @@ Entity.h.v=00310002
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2927,8 +2918,7 @@ Entity.h.v=00320000
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80040000
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.y=7.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -2988,7 +2978,7 @@ Entity.h.v=80050002
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=-6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -2996,7 +2986,7 @@ Entity.h.v=80050003
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -3012,7 +3002,7 @@ Entity.h.v=80050005
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=-6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3021,7 +3011,7 @@ Entity.h.v=80050006
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3030,7 +3020,7 @@ Entity.h.v=80050007
 Entity.type=5001
 Entity.construction=1
 Entity.actPoint.x=-6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actNormal.vy=1.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3063,15 +3053,15 @@ Entity.h.v=8005000b
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=8005000c
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -3087,7 +3077,7 @@ Entity.h.v=8005000e
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3095,8 +3085,8 @@ AddEntity
 Entity.h.v=8005000f
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3105,9 +3095,9 @@ Entity.h.v=80050010
 Entity.type=5001
 Entity.construction=1
 Entity.actPoint.x=6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
-Entity.actNormal.vx=0.97719732896114008813
-Entity.actNormal.vy=-0.21233318221892022448
+Entity.actPoint.y=18.99925830465132747804
+Entity.actNormal.vx=0.97618757163684333200
+Entity.actNormal.vy=-0.21692815626783651384
 Entity.actVisible=1
 AddEntity
 
@@ -3138,8 +3128,8 @@ AddEntity
 Entity.h.v=8005001d
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -3147,7 +3137,7 @@ Entity.h.v=8005001e
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=-6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -3162,8 +3152,8 @@ AddEntity
 Entity.h.v=80050020
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3172,7 +3162,7 @@ Entity.h.v=80050021
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=-6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3180,10 +3170,10 @@ AddEntity
 Entity.h.v=80050022
 Entity.type=5001
 Entity.construction=1
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
-Entity.actNormal.vx=-0.97515838242635710653
-Entity.actNormal.vy=-0.22150875644906339867
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
+Entity.actNormal.vx=-0.97618757163684333200
+Entity.actNormal.vy=-0.21692815626783651384
 Entity.actVisible=1
 AddEntity
 
@@ -3216,24 +3206,24 @@ AddEntity
 Entity.h.v=80050026
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.49925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.49925830465132747804
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=80050027
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.86828731779087231502
-Entity.actPoint.y=18.39309282546709312101
+Entity.actPoint.x=5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=80050028
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -3258,8 +3248,8 @@ AddEntity
 Entity.h.v=8005002b
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.49925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.49925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3267,8 +3257,8 @@ AddEntity
 Entity.h.v=8005002c
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.86828731779087231502
-Entity.actPoint.y=18.39309282546709312101
+Entity.actPoint.x=5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3276,8 +3266,8 @@ AddEntity
 Entity.h.v=8005002d
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3325,8 +3315,8 @@ AddEntity
 Entity.h.v=80050033
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -3334,7 +3324,7 @@ Entity.h.v=80050034
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=-6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -3349,8 +3339,8 @@ AddEntity
 Entity.h.v=80050036
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3359,7 +3349,7 @@ Entity.h.v=80050037
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=-6.00000000000000000000
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3367,9 +3357,9 @@ AddEntity
 Entity.h.v=80050038
 Entity.type=5001
 Entity.construction=1
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.99925941657655314998
-Entity.actNormal.vy=-0.99999999999999988898
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
+Entity.actNormal.vy=-1.00000000000000000000
 Entity.actVisible=1
 AddEntity
 
@@ -3400,16 +3390,16 @@ AddEntity
 Entity.h.v=8005003c
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.86828731779087231502
-Entity.actPoint.y=18.39309282546709312101
+Entity.actPoint.x=5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=8005003d
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -3424,8 +3414,8 @@ AddEntity
 Entity.h.v=8005003f
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.86828731779087231502
-Entity.actPoint.y=18.39309282546709312101
+Entity.actPoint.x=5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3433,8 +3423,8 @@ AddEntity
 Entity.h.v=80050040
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3442,10 +3432,10 @@ AddEntity
 Entity.h.v=80050041
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=5.86828731779087231502
-Entity.actPoint.y=18.39309282546709312101
-Entity.actNormal.vx=0.97719732896114019916
-Entity.actNormal.vy=-0.21233318221892019673
+Entity.actPoint.x=5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
+Entity.actNormal.vx=0.97618757163684344302
+Entity.actNormal.vy=-0.21692815626783654159
 Entity.actVisible=1
 AddEntity
 
@@ -3478,24 +3468,24 @@ AddEntity
 Entity.h.v=80050045
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-5.37368699358880252959
-Entity.actPoint.y=18.49925941657655314998
+Entity.actPoint.x=-5.37669348001054459019
+Entity.actPoint.y=18.49925830465132747804
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=80050046
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-5.37368699358880252959
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=-5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=80050047
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-5.86126618480198136041
-Entity.actPoint.y=18.38850503835202232494
+Entity.actPoint.x=-5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actVisible=1
 AddEntity
 
@@ -3520,8 +3510,8 @@ AddEntity
 Entity.h.v=8005004a
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-5.37368699358880252959
-Entity.actPoint.y=18.49925941657655314998
+Entity.actPoint.x=-5.37669348001054459019
+Entity.actPoint.y=18.49925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3529,8 +3519,8 @@ AddEntity
 Entity.h.v=8005004b
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-5.37368699358880252959
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=-5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3538,8 +3528,8 @@ AddEntity
 Entity.h.v=8005004c
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-5.86126618480198136041
-Entity.actPoint.y=18.38850503835202232494
+Entity.actPoint.x=-5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3587,16 +3577,16 @@ AddEntity
 Entity.h.v=80050052
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-5.86126618480198136041
-Entity.actPoint.y=18.38850503835202232494
+Entity.actPoint.x=-5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=80050053
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -3611,8 +3601,8 @@ AddEntity
 Entity.h.v=80050055
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-5.86126618480198136041
-Entity.actPoint.y=18.38850503835202232494
+Entity.actPoint.x=-5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3620,8 +3610,8 @@ AddEntity
 Entity.h.v=80050056
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3629,10 +3619,10 @@ AddEntity
 Entity.h.v=80050057
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=-5.86126618480198136041
-Entity.actPoint.y=18.38850503835202232494
-Entity.actNormal.vx=0.97515838242635732858
-Entity.actNormal.vy=0.22150875644906342643
+Entity.actPoint.x=-5.86478726582896570108
+Entity.actPoint.y=18.39079422651740713945
+Entity.actNormal.vx=0.97618757163684344302
+Entity.actNormal.vy=0.21692815626783654159
 Entity.actVisible=1
 AddEntity
 
@@ -3663,16 +3653,16 @@ AddEntity
 Entity.h.v=8005005b
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-5.37368699358880252959
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=-5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=8005005c
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -3687,8 +3677,8 @@ AddEntity
 Entity.h.v=8005005e
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-5.37368699358880252959
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=-5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3696,8 +3686,8 @@ AddEntity
 Entity.h.v=8005005f
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=5.37968865331030254850
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.x=5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3705,9 +3695,9 @@ AddEntity
 Entity.h.v=80050060
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=-5.37368699358880252959
-Entity.actPoint.y=18.99925941657655314998
-Entity.actNormal.vy=0.99999999999999988898
+Entity.actPoint.x=-5.37669348001054459019
+Entity.actPoint.y=18.99925830465132747804
+Entity.actNormal.vy=1.00000000000000000000
 Entity.actVisible=1
 AddEntity
 
@@ -3730,16 +3720,14 @@ AddEntity
 Entity.h.v=80050063
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=9.99925941657655314998
+Entity.actPoint.y=9.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=80050064
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=9.99925941657655314998
+Entity.actPoint.y=9.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3763,16 +3751,14 @@ AddEntity
 Entity.h.v=80050067
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=9.99925941657655314998
+Entity.actPoint.y=9.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=80050068
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -3787,8 +3773,7 @@ AddEntity
 Entity.h.v=8005006a
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=9.99925941657655314998
+Entity.actPoint.y=9.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3796,8 +3781,7 @@ AddEntity
 Entity.h.v=8005006b
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3805,8 +3789,7 @@ AddEntity
 Entity.h.v=8005006c
 Entity.type=5001
 Entity.construction=1
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=9.99925941657655314998
+Entity.actPoint.y=9.99925830465132747804
 Entity.actNormal.vx=-1.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3839,8 +3822,8 @@ AddEntity
 Entity.h.v=80050070
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=14.49925830465132747804
+Entity.actPoint.x=-0.00000000000000000000
+Entity.actPoint.y=14.49925830606329490990
 Entity.actVisible=1
 AddEntity
 
@@ -3871,8 +3854,8 @@ AddEntity
 Entity.h.v=80050074
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=14.49925830465132747804
+Entity.actPoint.x=-0.00000000000000000000
+Entity.actPoint.y=14.49925830606329490990
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3965,16 +3948,16 @@ AddEntity
 Entity.h.v=80050082
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=80050083
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -3989,8 +3972,8 @@ AddEntity
 Entity.h.v=80050085
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -3998,8 +3981,8 @@ AddEntity
 Entity.h.v=80050086
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -4007,8 +3990,8 @@ AddEntity
 Entity.h.v=80050087
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actNormal.vx=1.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -4040,16 +4023,16 @@ AddEntity
 Entity.h.v=8005008b
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=8005008c
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -4064,8 +4047,8 @@ AddEntity
 Entity.h.v=8005008e
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -4073,8 +4056,8 @@ AddEntity
 Entity.h.v=8005008f
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -4082,8 +4065,8 @@ AddEntity
 Entity.h.v=80050090
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=-3.95561311903566847903
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=-4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actNormal.vy=1.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -4115,16 +4098,16 @@ AddEntity
 Entity.h.v=80050094
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=80050095
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
@@ -4139,8 +4122,8 @@ AddEntity
 Entity.h.v=80050097
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -4148,8 +4131,8 @@ AddEntity
 Entity.h.v=80050098
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=9.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=9.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -4157,8 +4140,8 @@ AddEntity
 Entity.h.v=80050099
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=4.04438688096433107688
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.x=4.00000000000000000000
+Entity.actPoint.y=7.99915810160008611263
 Entity.actNormal.vx=-1.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -4182,16 +4165,14 @@ AddEntity
 Entity.h.v=8005009c
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.y=7.99915810160008611263
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=8005009d
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=7.99915921352531356092
+Entity.actPoint.y=7.99915810160008611263
 Entity.actPoint.z=17.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -4224,8 +4205,7 @@ AddEntity
 Entity.h.v=80060002
 Entity.type=2012
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actVisible=1
 AddEntity
 
@@ -5253,8 +5233,7 @@ AddEntity
 Entity.h.v=80090002
 Entity.type=2012
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5270,8 +5249,8 @@ AddEntity
 Entity.h.v=800a0002
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5279,8 +5258,8 @@ AddEntity
 Entity.h.v=800a0003
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5296,8 +5275,8 @@ AddEntity
 Entity.h.v=800a0005
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5305,8 +5284,8 @@ AddEntity
 Entity.h.v=800a0006
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5314,8 +5293,8 @@ AddEntity
 Entity.h.v=800a0007
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actNormal.vx=1.00000000000000000000
 Entity.actVisible=1
@@ -5348,8 +5327,8 @@ AddEntity
 Entity.h.v=800a000b
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5357,8 +5336,7 @@ AddEntity
 Entity.h.v=800a000c
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=10.34233636648602328023
+Entity.actPoint.y=10.34233636789799071209
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5374,8 +5352,8 @@ AddEntity
 Entity.h.v=800a000e
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5383,8 +5361,7 @@ AddEntity
 Entity.h.v=800a000f
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=10.34233636648602328023
+Entity.actPoint.y=10.34233636789799071209
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5392,11 +5369,11 @@ AddEntity
 Entity.h.v=800a0010
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=3.00000000000000000000
-Entity.actNormal.vx=0.49999999999999994449
-Entity.actNormal.vy=0.86602540378443881863
+Entity.actNormal.vx=0.50000000000000011102
+Entity.actNormal.vy=0.86602540378443837454
 Entity.actVisible=1
 AddEntity
 
@@ -5427,8 +5404,8 @@ AddEntity
 Entity.h.v=800a0014
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5436,8 +5413,8 @@ AddEntity
 Entity.h.v=800a0015
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5453,8 +5430,8 @@ AddEntity
 Entity.h.v=800a0017
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5462,8 +5439,8 @@ AddEntity
 Entity.h.v=800a0018
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5471,8 +5448,8 @@ AddEntity
 Entity.h.v=800a0019
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=-3.55561311903566901194
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=-3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actNormal.vy=1.00000000000000000000
 Entity.actVisible=1
@@ -5505,8 +5482,8 @@ AddEntity
 Entity.h.v=800a001d
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5514,8 +5491,8 @@ AddEntity
 Entity.h.v=800a001e
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5531,8 +5508,8 @@ AddEntity
 Entity.h.v=800a0020
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5540,8 +5517,8 @@ AddEntity
 Entity.h.v=800a0021
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5549,8 +5526,8 @@ AddEntity
 Entity.h.v=800a0022
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=20.99925941657655314998
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=20.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actNormal.vx=1.00000000000000000000
 Entity.actVisible=1
@@ -5583,8 +5560,8 @@ AddEntity
 Entity.h.v=800a0026
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5592,8 +5569,7 @@ AddEntity
 Entity.h.v=800a0027
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=10.34233636648602328023
+Entity.actPoint.y=10.34233636789799071209
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5609,8 +5585,8 @@ AddEntity
 Entity.h.v=800a0029
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5618,8 +5594,7 @@ AddEntity
 Entity.h.v=800a002a
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=10.34233636648602328023
+Entity.actPoint.y=10.34233636789799071209
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5627,11 +5602,11 @@ AddEntity
 Entity.h.v=800a002b
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=3.64438688096433116570
-Entity.actPoint.y=12.42079733556867537914
+Entity.actPoint.x=3.60000000000000008882
+Entity.actPoint.y=12.42079733698064458736
 Entity.actPoint.z=3.00000000000000000000
-Entity.actNormal.vx=0.49999999999999994449
-Entity.actNormal.vy=-0.86602540378443881863
+Entity.actNormal.vx=0.50000000000000011102
+Entity.actNormal.vy=-0.86602540378443837454
 Entity.actVisible=1
 AddEntity
 
@@ -5663,8 +5638,8 @@ AddEntity
 Entity.h.v=800a002f
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=14.49925830465132747804
+Entity.actPoint.x=-0.00000000000000000000
+Entity.actPoint.y=14.49925830606329490990
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5696,8 +5671,8 @@ AddEntity
 Entity.h.v=800a0033
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=14.49925830465132747804
+Entity.actPoint.x=-0.00000000000000000000
+Entity.actPoint.y=14.49925830606329490990
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5736,8 +5711,7 @@ AddEntity
 Entity.h.v=800a003a
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5753,8 +5727,7 @@ AddEntity
 Entity.h.v=800a003c
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=5.50000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -5771,8 +5744,7 @@ Entity.h.v=800a003e
 Entity.type=5000
 Entity.construction=0
 Entity.point[0].v=800a003c
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=5.50000000000000000000
 Entity.actNormal.vz=1.00000000000000000000
 Entity.actVisible=1
@@ -5782,8 +5754,7 @@ Entity.h.v=800a003f
 Entity.type=5000
 Entity.construction=0
 Entity.point[0].v=800a003a
-Entity.actPoint.x=0.04438688096433122954
-Entity.actPoint.y=18.99925941657655314998
+Entity.actPoint.y=18.99925830465132747804
 Entity.actPoint.z=3.00000000000000000000
 Entity.actNormal.vz=1.00000000000000000000
 Entity.actVisible=1
@@ -5917,7 +5888,7 @@ Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=19.19335782158794856400
 Entity.actPoint.y=9.74973911290564743126
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
@@ -5943,7 +5914,7 @@ Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=19.19335782158794856400
 Entity.actPoint.y=10.24973911290564743126
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
@@ -5953,8 +5924,8 @@ Entity.construction=0
 Entity.actPoint.x=15.49974950608864610047
 Entity.actPoint.y=9.99964658519982307894
 Entity.actPoint.z=10.00000000000000177636
-Entity.actNormal.vx=-0.50000000011766354557
-Entity.actNormal.vz=-0.86602540371650560402
+Entity.actNormal.vx=-0.50000000011766387864
+Entity.actNormal.vz=-0.86602540371650549300
 Entity.actVisible=1
 AddEntity
 
@@ -5987,7 +5958,7 @@ Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=19.19335782158794856400
 Entity.actPoint.y=9.74973911290564743126
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
@@ -5996,7 +5967,7 @@ Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=20.69335782111729571398
 Entity.actPoint.y=9.74977668904985073084
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
@@ -6013,7 +5984,7 @@ Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=19.19335782158794856400
 Entity.actPoint.y=10.24973911290564743126
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
@@ -6022,7 +5993,7 @@ Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=20.69335782111729571398
 Entity.actPoint.y=10.24977668904985073084
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
@@ -6031,7 +6002,7 @@ Entity.type=5001
 Entity.construction=0
 Entity.actPoint.x=19.19335782158794856400
 Entity.actPoint.y=9.99973911290564743126
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actNormal.vz=-1.00000000000000000000
 Entity.actVisible=1
 AddEntity
@@ -6065,14 +6036,14 @@ Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=20.69335782111729571398
 Entity.actPoint.y=9.74977668904985073084
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=800c001e
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=19.89516775104054602252
+Entity.actPoint.x=19.89516775104054246981
 Entity.actPoint.y=9.74975669377972842256
 Entity.actPoint.z=9.25000000000000177636
 Entity.actVisible=1
@@ -6091,14 +6062,14 @@ Entity.type=2010
 Entity.construction=0
 Entity.actPoint.x=20.69335782111729571398
 Entity.actPoint.y=10.24977668904985073084
-Entity.actPoint.z=7.86749424409632425181
+Entity.actPoint.z=7.86749424409632247546
 Entity.actVisible=1
 AddEntity
 
 Entity.h.v=800c0021
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=19.89516775104054602252
+Entity.actPoint.x=19.89516775104054246981
 Entity.actPoint.y=10.24975669377972842256
 Entity.actPoint.z=9.25000000000000177636
 Entity.actVisible=1
@@ -6109,9 +6080,9 @@ Entity.type=5001
 Entity.construction=0
 Entity.actPoint.x=20.69335782111729571398
 Entity.actPoint.y=9.99977668904985073084
-Entity.actPoint.z=7.86749424409632425181
-Entity.actNormal.vx=0.86602540385237125609
-Entity.actNormal.vz=0.49999999988233745363
+Entity.actPoint.z=7.86749424409632247546
+Entity.actNormal.vx=0.86602540385237047893
+Entity.actNormal.vz=0.49999999988233861936
 Entity.actVisible=1
 AddEntity
 
@@ -6142,7 +6113,7 @@ AddEntity
 Entity.h.v=800c0026
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=19.89516775104054602252
+Entity.actPoint.x=19.89516775104054246981
 Entity.actPoint.y=9.74975669377972842256
 Entity.actPoint.z=9.25000000000000177636
 Entity.actVisible=1
@@ -6168,7 +6139,7 @@ AddEntity
 Entity.h.v=800c0029
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=19.89516775104054602252
+Entity.actPoint.x=19.89516775104054246981
 Entity.actPoint.y=10.24975669377972842256
 Entity.actPoint.z=9.25000000000000177636
 Entity.actVisible=1
@@ -6186,7 +6157,7 @@ AddEntity
 Entity.h.v=800c002b
 Entity.type=5001
 Entity.construction=0
-Entity.actPoint.x=19.89516775104054602252
+Entity.actPoint.x=19.89516775104054246981
 Entity.actPoint.y=9.99975669377972842256
 Entity.actPoint.z=9.25000000000000177636
 Entity.actNormal.vz=-1.00000000000000000000
@@ -6342,7 +6313,7 @@ Entity.point[0].v=800c003c
 Entity.actPoint.x=29.60769515458673240005
 Entity.actPoint.y=10.25000000000000000000
 Entity.actPoint.z=20.00000000000000000000
-Entity.actNormal.vx=0.00002505076280229756
+Entity.actNormal.vx=0.00002505076280229755
 Entity.actNormal.vy=-0.99999999968622965696
 Entity.actVisible=1
 AddEntity
@@ -6354,7 +6325,7 @@ Entity.point[0].v=800c003a
 Entity.actPoint.x=29.60769515458673240005
 Entity.actPoint.y=9.75000000000000000000
 Entity.actPoint.z=20.00000000000000000000
-Entity.actNormal.vx=0.00002505076280229756
+Entity.actNormal.vx=0.00002505076280229755
 Entity.actNormal.vy=-0.99999999968622965696
 Entity.actVisible=1
 AddEntity
@@ -6949,17 +6920,6 @@ Constraint.group.v=00000004
 Constraint.workplane.v=80040000
 Constraint.ptA.v=001b0000
 Constraint.ptB.v=001c0001
-Constraint.other=0
-Constraint.other2=0
-Constraint.reference=0
-AddConstraint
-
-Constraint.h.v=00000046
-Constraint.type=42
-Constraint.group.v=00000004
-Constraint.workplane.v=80040000
-Constraint.ptA.v=001c0002
-Constraint.entityA.v=00110000
 Constraint.other=0
 Constraint.other2=0
 Constraint.reference=0
@@ -7656,198 +7616,234 @@ Constraint.other2=0
 Constraint.reference=0
 AddConstraint
 
-Triangle 80050041 00646464 4.04443042702799804289 9.99935962071865525047 17.00000000000000000000  4.04443042702799893107 9.99935962071865702683 10.00000000000000177636  5.86828731779087231502 18.39309282546709312101 17.00000000000000000000
-Triangle 00000000 00646464 5.86828731779087231502 18.39309282546709312101 17.00000000000000000000  5.86626672124678094633 18.61433236649618194747 0.00000000000000000000  5.86626672124677828180 18.61433236649619260561 17.00000000000000355271
-Triangle 8005007f 00646464 1.45860044333742355782 13.08504474227822989008 17.00000000000000000000  5.86828731779087231502 18.39309282546709312101 17.00000000000000000000  2.04438688096433107688 14.49925830465132747804 17.00000000000000000000
-Triangle 00000000 00646464 5.59545430217033601394 18.95030839925139787283 17.00000000000000355271  5.37968865331030254850 18.99925941657655314998 0.00000000000000000000  5.37968865331030254850 18.99925941657655314998 17.00000000000000000000
-Triangle 00000000 00646464 5.59545430217034400755 18.95030839925139432012 0.00000000000000000000  5.37968865331030254850 18.99925941657655314998 0.00000000000000000000  5.59545430217033601394 18.95030839925139787283 17.00000000000000355271
-Triangle 8005007f 00646464 1.45860044333742711054 15.91347186702442151329 17.00000000000000000000  5.76897215896828008397 18.81304015566459142406 17.00000000000000000000  0.04438688096433135444 16.49925830465132747804 17.00000000000000000000
-Triangle 8005007f 00646464 0.04438688096433135444 16.49925830465132747804 17.00000000000000000000  5.59545430217033601394 18.95030839925139787283 17.00000000000000355271  5.37968865331030254850 18.99925941657655314998 17.00000000000000000000
-Triangle 00000000 00646464 5.76897215896828008397 18.81304015566459142406 0.00000000000000000000  5.59545430217034400755 18.95030839925139432012 0.00000000000000000000  5.76897215896828008397 18.81304015566459142406 17.00000000000000000000
-Triangle 8005007f 00646464 5.86626672124677828180 18.61433236649619260561 17.00000000000000355271  5.76897215896828008397 18.81304015566459142406 17.00000000000000000000  1.45860044333742711054 15.91347186702442151329 17.00000000000000000000
-Triangle 00000000 00646464 5.86828731779087231502 18.39309282546709312101 0.00000000000000000000  5.86626672124678094633 18.61433236649618194747 0.00000000000000000000  5.86828731779087231502 18.39309282546709312101 17.00000000000000000000
-Triangle 8005007f 00646464 2.04438688096433107688 14.49925830465132747804 17.00000000000000000000  5.86626672124677828180 18.61433236649619260561 17.00000000000000355271  1.45860044333742711054 15.91347186702442151329 17.00000000000000000000
-Triangle 8005007f 00646464 5.37968865331030254850 18.99925941657655314998 17.00000000000000000000  -5.37368699358880252959 18.99925941657655314998 17.00000000000000000000  0.04438688096433135444 16.49925830465132747804 17.00000000000000000000
-Triangle 8005007f 00646464 5.76897215896828008397 18.81304015566459142406 17.00000000000000000000  5.59545430217033601394 18.95030839925139787283 17.00000000000000355271  0.04438688096433135444 16.49925830465132747804 17.00000000000000000000
-Triangle 80050060 00646464 -3.55561311903566901194 18.99925941657655314998 5.50000000000000000000  5.37968865331030254850 18.99925941657655314998 17.00000000000000000000  3.64438688096433116570 18.99925941657655670269 5.50000000000000000000
-Triangle 8005007f 00646464 5.86828731779087231502 18.39309282546709312101 17.00000000000000000000  5.86626672124677828180 18.61433236649619260561 17.00000000000000355271  2.04438688096433107688 14.49925830465132747804 17.00000000000000000000
-Triangle 8005007f 00646464 4.04443042702799804289 9.99935962071865525047 17.00000000000000000000  5.86828731779087231502 18.39309282546709312101 17.00000000000000000000  1.45860044333742355782 13.08504474227822989008 17.00000000000000000000
-Triangle 00000000 00646464 5.76897215896828008397 18.81304015566459142406 17.00000000000000000000  5.59545430217034400755 18.95030839925139432012 0.00000000000000000000  5.59545430217033601394 18.95030839925139787283 17.00000000000000355271
-Triangle 00000000 00646464 5.86626672124677828180 18.61433236649619260561 17.00000000000000355271  5.76897215896828008397 18.81304015566459142406 0.00000000000000000000  5.76897215896828008397 18.81304015566459142406 17.00000000000000000000
-Triangle 80050060 00646464 -5.37368699358880252959 18.99925941657655314998 17.00000000000000000000  5.37968865331030254850 18.99925941657655314998 17.00000000000000000000  -3.55561311903566901194 18.99925941657655314998 5.50000000000000000000
-Triangle 80050041 00646464 5.86828731779087231502 18.39309282546709312101 0.00000000000000000000  5.86828731779087231502 18.39309282546709312101 17.00000000000000000000  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000
-Triangle 00000000 00646464 5.86626672124678094633 18.61433236649618194747 0.00000000000000000000  5.76897215896828008397 18.81304015566459142406 0.00000000000000000000  5.86626672124677828180 18.61433236649619260561 17.00000000000000355271
-Triangle 80050060 00646464 5.37968865331030254850 18.99925941657655314998 17.00000000000000000000  5.37968865331030254850 18.99925941657655314998 0.00000000000000000000  3.64438688096433116570 18.99925941657655670269 5.50000000000000000000
-Triangle 80050041 00646464 4.04443042702799804289 9.99935962071865525047 0.00000000000000000000  5.86828731779087231502 18.39309282546709312101 17.00000000000000000000  4.04443042702799893107 9.99935962071865702683 10.00000000000000177636
-Triangle 80050060 00646464 3.64438688096433116570 18.99925941657655670269 5.50000000000000000000  5.37968865331030254850 18.99925941657655314998 0.00000000000000000000  3.64438688096433160979 18.99925941657655314998 3.00000000000000088818
-Triangle 800a0022 00646464 3.64438688096433160979 18.99925941657655314998 3.00000000000000088818  3.64438688096433116570 12.42079733556867537914 3.00000000000000000000  3.64438688096433116570 18.99925941657655670269 5.50000000000000000000
-Triangle 800a0022 00646464 3.64438688096433116570 18.99925941657655670269 5.50000000000000000000  3.64438688096433116570 12.42079733556867537914 3.00000000000000000000  3.64438688096433116570 12.42079733556867537914 5.50000000000000000000
-Triangle 800a003e 00646464 3.64438688096433116570 18.99925941657655670269 5.50000000000000000000  3.64438688096433116570 12.42079733556867537914 5.50000000000000000000  1.45860044333742644440 15.91347186702442506601 5.50000000000000000000
-Triangle 800a003e 00646464 0.04438688096433140995 16.49925830465132747804 5.49999999999999911182  3.64438688096433116570 18.99925941657655670269 5.50000000000000000000  1.45860044333742644440 15.91347186702442506601 5.50000000000000000000
-Triangle 800a003e 00646464 3.64438688096433116570 18.99925941657655670269 5.50000000000000000000  0.04438688096433140995 16.49925830465132747804 5.49999999999999911182  -3.55561311903566901194 18.99925941657655314998 5.50000000000000000000
-Triangle 800a003e 00646464 1.45860044333742644440 15.91347186702442506601 5.50000000000000000000  3.64438688096433116570 12.42079733556867537914 5.50000000000000000000  2.04438688096433107688 14.49925830465132747804 5.50000000000000000000
-Triangle 8008007d 00646464 2.04438688096433107688 14.49925830465132747804 0.00000000000000000000  5.59545430217034400755 18.95030839925139432012 0.00000000000000000000  1.45860044333742533418 13.08504474227823344279 0.00000000000000000000
-Triangle 8008007d 00646464 1.45860044333742711054 15.91347186702441973694 0.00000000000000000000  5.37968865331030254850 18.99925941657655314998 0.00000000000000000000  2.04438688096433107688 14.49925830465132747804 0.00000000000000000000
-Triangle 80050060 00646464 3.64438688096433160979 18.99925941657655314998 3.00000000000000088818  5.37968865331030254850 18.99925941657655314998 0.00000000000000000000  -3.55561311903566945603 18.99925941657655670269 3.00000000000000088818
-Triangle 8008007d 00646464 4.04443042702799804289 9.99935962071865525047 0.00000000000000000000  5.86626672124678094633 18.61433236649618194747 0.00000000000000000000  5.86828731779087231502 18.39309282546709312101 0.00000000000000000000
-Triangle 8008007d 00646464 -5.37368699358880252959 18.99925941657655314998 0.00000000000000000000  5.37968865331030254850 18.99925941657655314998 0.00000000000000000000  1.45860044333742711054 15.91347186702441973694 0.00000000000000000000
-Triangle 8008007d 00646464 5.37968865331030254850 18.99925941657655314998 0.00000000000000000000  5.59545430217034400755 18.95030839925139432012 0.00000000000000000000  2.04438688096433107688 14.49925830465132747804 0.00000000000000000000
-Triangle 8008007d 00646464 5.76897215896828008397 18.81304015566459142406 0.00000000000000000000  5.86626672124678094633 18.61433236649618194747 0.00000000000000000000  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000
-Triangle 8008007d 00646464 5.59545430217034400755 18.95030839925139432012 0.00000000000000000000  5.76897215896828008397 18.81304015566459142406 0.00000000000000000000  1.45860044333742533418 13.08504474227823344279 0.00000000000000000000
-Triangle 80050060 00646464 5.37968865331030254850 18.99925941657655314998 0.00000000000000000000  -5.37368699358880252959 18.99925941657655314998 0.00000000000000000000  -3.55561311903566945603 18.99925941657655670269 3.00000000000000088818
-Triangle 8008007d 00646464 1.45860044333742533418 13.08504474227823344279 0.00000000000000000000  5.76897215896828008397 18.81304015566459142406 0.00000000000000000000  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000
-Triangle 800a003f 00646464 2.04438688096433018870 14.49925830465132747804 3.00000000000000000000  3.64438688096433160979 18.99925941657655314998 3.00000000000000088818  1.45860044333742622236 15.91347186702442328965 3.00000000000000000000
-Triangle 800a003f 00646464 3.64438688096433160979 18.99925941657655314998 3.00000000000000088818  -3.55561311903566945603 18.99925941657655670269 3.00000000000000088818  0.04438688096433196506 16.49925830465132747804 3.00000000000000000000
-Triangle 800a003f 00646464 1.45860044333742622236 15.91347186702442328965 3.00000000000000000000  3.64438688096433160979 18.99925941657655314998 3.00000000000000088818  0.04438688096433196506 16.49925830465132747804 3.00000000000000000000
-Triangle 800a003f 00646464 3.64438688096433116570 12.42079733556867537914 3.00000000000000000000  3.64438688096433160979 18.99925941657655314998 3.00000000000000088818  2.04438688096433018870 14.49925830465132747804 3.00000000000000000000
-Triangle 8005007f 00646464 0.04438688096433135444 16.49925830465132747804 17.00000000000000000000  -5.37368699358880252959 18.99925941657655314998 17.00000000000000000000  -1.36982668140876606699 15.91347186702441796058 16.99999999999999644729
-Triangle 00000000 00646464 1.45860044333742644440 15.91347186702442506601 5.50000000000000000000  2.04438688096433107688 14.49925830465132747804 5.50000000000000000000  1.45860044333742711054 15.91347186702442151329 17.00000000000000000000
-Triangle 00000000 00646464 1.45860044333742711054 15.91347186702442151329 17.00000000000000000000  2.04438688096433107688 14.49925830465132747804 5.50000000000000000000  2.04438688096433107688 14.49925830465132747804 17.00000000000000000000
-Triangle 00000000 00646464 0.04438688096433140995 16.49925830465132747804 5.49999999999999911182  1.45860044333742644440 15.91347186702442506601 5.50000000000000000000  0.04438688096433135444 16.49925830465132747804 17.00000000000000000000
-Triangle 00000000 00646464 0.04438688096433135444 16.49925830465132747804 17.00000000000000000000  1.45860044333742644440 15.91347186702442506601 5.50000000000000000000  1.45860044333742711054 15.91347186702442151329 17.00000000000000000000
-Triangle 00000000 00646464 -1.36982668140876340246 15.91347186702441973694 5.50000000000000000000  0.04438688096433140995 16.49925830465132747804 5.49999999999999911182  -1.36982668140876606699 15.91347186702441796058 16.99999999999999644729
-Triangle 00000000 00646464 -1.36982668140876606699 15.91347186702441796058 16.99999999999999644729  0.04438688096433140995 16.49925830465132747804 5.49999999999999911182  0.04438688096433135444 16.49925830465132747804 17.00000000000000000000
-Triangle 800a003e 00646464 0.04438688096433140995 16.49925830465132747804 5.49999999999999911182  -1.36982668140876340246 15.91347186702441973694 5.50000000000000000000  -3.55561311903566901194 18.99925941657655314998 5.50000000000000000000
-Triangle 00000000 00646464 1.45860044333742711054 15.91347186702441973694 0.00000000000000000000  0.04438688096433196506 16.49925830465132747804 3.00000000000000000000  0.04438688096433135444 16.49925830465132747804 0.00000000000000000000
-Triangle 00000000 00646464 1.45860044333742622236 15.91347186702442328965 3.00000000000000000000  0.04438688096433196506 16.49925830465132747804 3.00000000000000000000  1.45860044333742711054 15.91347186702441973694 0.00000000000000000000
-Triangle 00000000 00646464 2.04438688096433107688 14.49925830465132747804 0.00000000000000000000  1.45860044333742622236 15.91347186702442328965 3.00000000000000000000  1.45860044333742711054 15.91347186702441973694 0.00000000000000000000
-Triangle 00000000 00646464 2.04438688096433018870 14.49925830465132747804 3.00000000000000000000  1.45860044333742622236 15.91347186702442328965 3.00000000000000000000  2.04438688096433107688 14.49925830465132747804 0.00000000000000000000
-Triangle 800a003f 00646464 0.04438688096433196506 16.49925830465132747804 3.00000000000000000000  -3.55561311903566945603 18.99925941657655670269 3.00000000000000088818  -1.36982668140876340246 15.91347186702442151329 3.00000000000000000000
-Triangle 00000000 00646464 0.04438688096433135444 16.49925830465132747804 0.00000000000000000000  -1.36982668140876340246 15.91347186702442151329 3.00000000000000000000  -1.36982668140876340246 15.91347186702441973694 0.00000000000000000000
-Triangle 00000000 00646464 0.04438688096433196506 16.49925830465132747804 3.00000000000000000000  -1.36982668140876340246 15.91347186702442151329 3.00000000000000000000  0.04438688096433135444 16.49925830465132747804 0.00000000000000000000
-Triangle 8008007d 00646464 -5.59051194558855879535 18.94980013636812188338 0.00000000000000000000  -5.37368699358880252959 18.99925941657655314998 0.00000000000000000000  1.45860044333742711054 15.91347186702441973694 0.00000000000000000000
-Triangle 8008007d 00646464 0.04438688096433135444 16.49925830465132747804 0.00000000000000000000  -5.59051194558855879535 18.94980013636812188338 0.00000000000000000000  1.45860044333742711054 15.91347186702441973694 0.00000000000000000000
-Triangle 8008007d 00646464 -5.76444087335985777543 18.81120717733765701496 0.00000000000000000000  -5.59051194558855879535 18.94980013636812188338 0.00000000000000000000  0.04438688096433135444 16.49925830465132747804 0.00000000000000000000
-Triangle 8008007d 00646464 -1.36982668140876340246 15.91347186702441973694 0.00000000000000000000  -5.76444087335985777543 18.81120717733765701496 0.00000000000000000000  0.04438688096433135444 16.49925830465132747804 0.00000000000000000000
-Triangle 00000000 00646464 2.04438688096433107688 14.49925830465132747804 5.50000000000000000000  1.45860044333742533418 13.08504474227823521915 5.50000000000000088818  2.04438688096433107688 14.49925830465132747804 17.00000000000000000000
-Triangle 00000000 00646464 2.04438688096433107688 14.49925830465132747804 17.00000000000000000000  1.45860044333742533418 13.08504474227823521915 5.50000000000000088818  1.45860044333742355782 13.08504474227822989008 17.00000000000000000000
-Triangle 8005007f 00646464 -3.95561311903566847903 9.99915921352531356092 17.00000000000000000000  4.04443042702799804289 9.99935962071865525047 17.00000000000000000000  0.04438688096433086178 12.49925830465132747804 17.00000000000000000000
-Triangle 8005007f 00646464 0.04438688096433086178 12.49925830465132747804 17.00000000000000000000  4.04443042702799804289 9.99935962071865525047 17.00000000000000000000  1.45860044333742355782 13.08504474227822989008 17.00000000000000000000
-Triangle 00000000 00646464 1.45860044333742355782 13.08504474227822989008 17.00000000000000000000  0.04438688096433107688 12.49925830465132747804 5.50000000000000000000  0.04438688096433086178 12.49925830465132747804 17.00000000000000000000
-Triangle 00000000 00646464 1.45860044333742533418 13.08504474227823521915 5.50000000000000088818  0.04438688096433107688 12.49925830465132747804 5.50000000000000000000  1.45860044333742355782 13.08504474227822989008 17.00000000000000000000
-Triangle 00000000 00646464 0.04438688096433086178 12.49925830465132747804 17.00000000000000000000  -1.36982668140876429064 13.08504474227823521915 5.50000000000000000000  -1.36982668140876029383 13.08504474227822989008 17.00000000000000000000
-Triangle 8005007f 00646464 -1.36982668140876029383 13.08504474227822989008 17.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 17.00000000000000000000  0.04438688096433086178 12.49925830465132747804 17.00000000000000000000
-Triangle 00000000 00646464 0.04438688096433107688 12.49925830465132747804 5.50000000000000000000  -1.36982668140876429064 13.08504474227823521915 5.50000000000000000000  0.04438688096433086178 12.49925830465132747804 17.00000000000000000000
-Triangle 800a003e 00646464 3.64438688096433116570 12.42079733556867537914 5.50000000000000000000  1.45860044333742533418 13.08504474227823521915 5.50000000000000088818  2.04438688096433107688 14.49925830465132747804 5.50000000000000000000
-Triangle 800a003e 00646464 -3.55561311903566901194 12.42079733556867537914 5.50000000000000000000  0.04438688096433107688 12.49925830465132747804 5.50000000000000000000  3.64438688096433116570 12.42079733556867537914 5.50000000000000000000
-Triangle 800a003e 00646464 0.04438688096433107688 12.49925830465132747804 5.50000000000000000000  1.45860044333742533418 13.08504474227823521915 5.50000000000000088818  3.64438688096433116570 12.42079733556867537914 5.50000000000000000000
-Triangle 800a003e 00646464 -1.36982668140876429064 13.08504474227823521915 5.50000000000000000000  0.04438688096433107688 12.49925830465132747804 5.50000000000000000000  -3.55561311903566901194 12.42079733556867537914 5.50000000000000000000
-Triangle 800a003f 00646464 0.04438688096433122954 10.34233636648602328023 3.00000000000000000000  3.64438688096433116570 12.42079733556867537914 3.00000000000000000000  1.45860044333742555622 13.08504474227823521915 3.00000000000000000000
-Triangle 800a003f 00646464 1.45860044333742555622 13.08504474227823521915 3.00000000000000000000  3.64438688096433116570 12.42079733556867537914 3.00000000000000000000  2.04438688096433018870 14.49925830465132747804 3.00000000000000000000
-Triangle 00000000 00646464 1.45860044333742533418 13.08504474227823344279 0.00000000000000000000  2.04438688096433018870 14.49925830465132747804 3.00000000000000000000  2.04438688096433107688 14.49925830465132747804 0.00000000000000000000
-Triangle 00000000 00646464 1.45860044333742555622 13.08504474227823521915 3.00000000000000000000  2.04438688096433018870 14.49925830465132747804 3.00000000000000000000  1.45860044333742533418 13.08504474227823344279 0.00000000000000000000
-Triangle 00000000 00646464 0.04438688096433107688 12.49925830465132747804 3.00000000000000000000  1.45860044333742555622 13.08504474227823521915 3.00000000000000000000  0.04438688096433086178 12.49925830465132747804 0.00000000000000000000
-Triangle 00000000 00646464 0.04438688096433086178 12.49925830465132747804 0.00000000000000000000  1.45860044333742555622 13.08504474227823521915 3.00000000000000000000  1.45860044333742533418 13.08504474227823344279 0.00000000000000000000
-Triangle 800a003f 00646464 0.04438688096433107688 12.49925830465132747804 3.00000000000000000000  0.04438688096433122954 10.34233636648602328023 3.00000000000000000000  1.45860044333742555622 13.08504474227823521915 3.00000000000000000000
-Triangle 00000000 00646464 -1.36982668140876451268 13.08504474227823344279 0.00000000000000000000  0.04438688096433107688 12.49925830465132747804 3.00000000000000000000  0.04438688096433086178 12.49925830465132747804 0.00000000000000000000
-Triangle 800a003f 00646464 -3.55561311903566901194 12.42079733556867537914 3.00000000000000000000  0.04438688096433122954 10.34233636648602328023 3.00000000000000000000  0.04438688096433107688 12.49925830465132747804 3.00000000000000000000
-Triangle 00000000 00646464 -1.36982668140876406859 13.08504474227823344279 3.00000000000000000000  0.04438688096433107688 12.49925830465132747804 3.00000000000000000000  -1.36982668140876451268 13.08504474227823344279 0.00000000000000000000
-Triangle 800a003f 00646464 -1.36982668140876406859 13.08504474227823344279 3.00000000000000000000  -3.55561311903566901194 12.42079733556867537914 3.00000000000000000000  0.04438688096433107688 12.49925830465132747804 3.00000000000000000000
-Triangle 8008007d 00646464 0.04438688096433086178 12.49925830465132747804 0.00000000000000000000  1.45860044333742533418 13.08504474227823344279 0.00000000000000000000  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000
-Triangle 8008007d 00646464 4.04443042702799804289 9.99935962071865525047 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  0.04438688096433086178 12.49925830465132747804 0.00000000000000000000
-Triangle 8008007d 00646464 0.04438688096433086178 12.49925830465132747804 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  -1.36982668140876451268 13.08504474227823344279 0.00000000000000000000
-Triangle 80050060 00646464 -5.37368699358880252959 18.99925941657655314998 0.00000000000000000000  -5.37368699358880252959 18.99925941657655314998 17.00000000000000000000  -3.55561311903566901194 18.99925941657655314998 5.50000000000000000000
-Triangle 8005007f 00646464 -5.37368699358880252959 18.99925941657655314998 17.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 17.00000000000000000000  -1.36982668140876606699 15.91347186702441796058 16.99999999999999644729
-Triangle 00000000 00646464 -1.95561311903566825698 14.49925830465132747804 5.50000000000000000000  -1.36982668140876340246 15.91347186702441973694 5.50000000000000000000  -1.95561311903566870107 14.49925830465132747804 17.00000000000000000000
-Triangle 8005007f 00646464 -1.36982668140876606699 15.91347186702441796058 16.99999999999999644729  -3.95561311903566847903 9.99915921352531356092 17.00000000000000000000  -1.95561311903566870107 14.49925830465132747804 17.00000000000000000000
-Triangle 00000000 00646464 -1.95561311903566870107 14.49925830465132747804 17.00000000000000000000  -1.36982668140876340246 15.91347186702441973694 5.50000000000000000000  -1.36982668140876606699 15.91347186702441796058 16.99999999999999644729
-Triangle 00000000 00646464 -5.76444087335985777543 18.81120717733765701496 0.00000000000000000000  -5.86106417860252815188 18.61089937146769912601 0.00000000000000000000  -5.76444087335985777543 18.81120717733765701496 17.00000000000000000000
-Triangle 00000000 00646464 -5.59051194558862274420 18.94980013636808990896 17.00000000000000000000  -5.76444087335985777543 18.81120717733765701496 0.00000000000000000000  -5.76444087335985777543 18.81120717733765701496 17.00000000000000000000
-Triangle 8005007f 00646464 -5.86126618480198136041 18.38850503835202232494 17.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 17.00000000000000000000  -5.59051194558862274420 18.94980013636808990896 17.00000000000000000000
-Triangle 00000000 00646464 -5.37368699358880252959 18.99925941657655314998 0.00000000000000000000  -5.59051194558855879535 18.94980013636812188338 0.00000000000000000000  -5.37368699358880252959 18.99925941657655314998 17.00000000000000000000
-Triangle 80050057 00646464 -5.86126618480198136041 18.38850503835202232494 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  -5.86126618480198136041 18.38850503835202232494 17.00000000000000000000
-Triangle 00000000 00646464 -5.59051194558855879535 18.94980013636812188338 0.00000000000000000000  -5.76444087335985777543 18.81120717733765701496 0.00000000000000000000  -5.59051194558862274420 18.94980013636808990896 17.00000000000000000000
-Triangle 8005007f 00646464 -5.86106417860253348096 18.61089937146768136245 17.00000000000000000000  -5.86126618480198136041 18.38850503835202232494 17.00000000000000000000  -5.76444087335985777543 18.81120717733765701496 17.00000000000000000000
-Triangle 8005007f 00646464 -5.59051194558862274420 18.94980013636808990896 17.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 17.00000000000000000000  -5.37368699358880252959 18.99925941657655314998 17.00000000000000000000
-Triangle 8005007f 00646464 -5.76444087335985777543 18.81120717733765701496 17.00000000000000000000  -5.86126618480198136041 18.38850503835202232494 17.00000000000000000000  -5.59051194558862274420 18.94980013636808990896 17.00000000000000000000
-Triangle 00000000 00646464 -5.86106417860253348096 18.61089937146768136245 17.00000000000000000000  -5.86126618480198136041 18.38850503835202232494 0.00000000000000000000  -5.86126618480198136041 18.38850503835202232494 17.00000000000000000000
-Triangle 00000000 00646464 -5.76444087335985777543 18.81120717733765701496 17.00000000000000000000  -5.86106417860252815188 18.61089937146769912601 0.00000000000000000000  -5.86106417860253348096 18.61089937146768136245 17.00000000000000000000
-Triangle 80050057 00646464 -5.86126618480198136041 18.38850503835202232494 17.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 17.00000000000000000000
-Triangle 00000000 00646464 -5.86106417860252815188 18.61089937146769912601 0.00000000000000000000  -5.86126618480198136041 18.38850503835202232494 0.00000000000000000000  -5.86106417860253348096 18.61089937146768136245 17.00000000000000000000
-Triangle 00000000 00646464 -5.37368699358880252959 18.99925941657655314998 17.00000000000000000000  -5.59051194558855879535 18.94980013636812188338 0.00000000000000000000  -5.59051194558862274420 18.94980013636808990896 17.00000000000000000000
-Triangle 800a003e 00646464 -3.55561311903566901194 18.99925941657655314998 5.50000000000000000000  -1.36982668140876340246 15.91347186702441973694 5.50000000000000000000  -3.55561311903566901194 12.42079733556867537914 5.50000000000000000000
-Triangle 80050060 00646464 -3.55561311903566945603 18.99925941657655670269 3.00000000000000088818  -5.37368699358880252959 18.99925941657655314998 0.00000000000000000000  -3.55561311903566901194 18.99925941657655314998 5.50000000000000000000
-Triangle 800a0007 00646464 -3.55561311903566901194 18.99925941657655314998 5.50000000000000000000  -3.55561311903566901194 12.42079733556867537914 5.50000000000000000000  -3.55561311903566945603 18.99925941657655670269 3.00000000000000088818
-Triangle 800a0007 00646464 -3.55561311903566945603 18.99925941657655670269 3.00000000000000088818  -3.55561311903566901194 12.42079733556867537914 5.50000000000000000000  -3.55561311903566901194 12.42079733556867537914 3.00000000000000000000
-Triangle 800a003e 00646464 -1.36982668140876340246 15.91347186702441973694 5.50000000000000000000  -1.95561311903566825698 14.49925830465132747804 5.50000000000000000000  -3.55561311903566901194 12.42079733556867537914 5.50000000000000000000
-Triangle 800a003f 00646464 -3.55561311903566945603 18.99925941657655670269 3.00000000000000088818  -3.55561311903566901194 12.42079733556867537914 3.00000000000000000000  -1.36982668140876340246 15.91347186702442151329 3.00000000000000000000
-Triangle 8008007d 00646464 -1.36982668140876451268 13.08504474227823344279 0.00000000000000000000  -5.86126618480198136041 18.38850503835202232494 0.00000000000000000000  -1.95561311903566870107 14.49925830465132747804 0.00000000000000000000
-Triangle 8008007d 00646464 -1.95561311903566870107 14.49925830465132747804 0.00000000000000000000  -5.86106417860252815188 18.61089937146769912601 0.00000000000000000000  -1.36982668140876340246 15.91347186702441973694 0.00000000000000000000
-Triangle 8008007d 00646464 -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  -5.86126618480198136041 18.38850503835202232494 0.00000000000000000000  -1.36982668140876451268 13.08504474227823344279 0.00000000000000000000
-Triangle 8008007d 00646464 -5.86106417860252815188 18.61089937146769912601 0.00000000000000000000  -5.76444087335985777543 18.81120717733765701496 0.00000000000000000000  -1.36982668140876340246 15.91347186702441973694 0.00000000000000000000
-Triangle 8008007d 00646464 -5.86126618480198136041 18.38850503835202232494 0.00000000000000000000  -5.86106417860252815188 18.61089937146769912601 0.00000000000000000000  -1.95561311903566870107 14.49925830465132747804 0.00000000000000000000
-Triangle 00000000 00646464 -1.36982668140876340246 15.91347186702441973694 0.00000000000000000000  -1.95561311903566847903 14.49925830465132747804 3.00000000000000000000  -1.95561311903566870107 14.49925830465132747804 0.00000000000000000000
-Triangle 00000000 00646464 -1.36982668140876340246 15.91347186702442151329 3.00000000000000000000  -1.95561311903566847903 14.49925830465132747804 3.00000000000000000000  -1.36982668140876340246 15.91347186702441973694 0.00000000000000000000
-Triangle 800a003f 00646464 -1.36982668140876340246 15.91347186702442151329 3.00000000000000000000  -3.55561311903566901194 12.42079733556867537914 3.00000000000000000000  -1.95561311903566847903 14.49925830465132747804 3.00000000000000000000
-Triangle 00000000 00646464 -1.36982668140876029383 13.08504474227822989008 17.00000000000000000000  -1.95561311903566825698 14.49925830465132747804 5.50000000000000000000  -1.95561311903566870107 14.49925830465132747804 17.00000000000000000000
-Triangle 00000000 00646464 -1.36982668140876429064 13.08504474227823521915 5.50000000000000000000  -1.95561311903566825698 14.49925830465132747804 5.50000000000000000000  -1.36982668140876029383 13.08504474227822989008 17.00000000000000000000
-Triangle 8005007f 00646464 -1.95561311903566870107 14.49925830465132747804 17.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 17.00000000000000000000  -1.36982668140876029383 13.08504474227822989008 17.00000000000000000000
-Triangle 800a003e 00646464 -1.95561311903566825698 14.49925830465132747804 5.50000000000000000000  -1.36982668140876429064 13.08504474227823521915 5.50000000000000000000  -3.55561311903566901194 12.42079733556867537914 5.50000000000000000000
-Triangle 800a003f 00646464 -1.95561311903566847903 14.49925830465132747804 3.00000000000000000000  -3.55561311903566901194 12.42079733556867537914 3.00000000000000000000  -1.36982668140876406859 13.08504474227823344279 3.00000000000000000000
-Triangle 00000000 00646464 -1.95561311903566847903 14.49925830465132747804 3.00000000000000000000  -1.36982668140876406859 13.08504474227823344279 3.00000000000000000000  -1.95561311903566870107 14.49925830465132747804 0.00000000000000000000
-Triangle 00000000 00646464 -1.95561311903566870107 14.49925830465132747804 0.00000000000000000000  -1.36982668140876406859 13.08504474227823344279 3.00000000000000000000  -1.36982668140876451268 13.08504474227823344279 0.00000000000000000000
+Constraint.h.v=000000b0
+Constraint.type=41
+Constraint.group.v=00000004
+Constraint.workplane.v=80040000
+Constraint.ptA.v=001c0002
+Constraint.entityA.v=00020000
+Constraint.other=0
+Constraint.other2=0
+Constraint.reference=0
+AddConstraint
+
+Constraint.h.v=000000b1
+Constraint.type=42
+Constraint.group.v=00000004
+Constraint.workplane.v=80040000
+Constraint.ptA.v=001c0002
+Constraint.entityA.v=00110000
+Constraint.other=0
+Constraint.other2=0
+Constraint.reference=0
+AddConstraint
+
+Constraint.h.v=000000b2
+Constraint.type=32
+Constraint.group.v=00000004
+Constraint.workplane.v=80040000
+Constraint.valA=-4.50000000000000000000
+Constraint.ptA.v=001d0001
+Constraint.entityA.v=000f0000
+Constraint.other=0
+Constraint.other2=0
+Constraint.reference=0
+Constraint.disp.offset.x=10.97136068957121501910
+Constraint.disp.offset.y=0.22466950217551970304
+AddConstraint
+
+Triangle 80050041 00646464 4.00004453444152474617 9.99935850881819199287 17.00000000000000000000  4.00004453444152296981 9.99935850881818844016 10.00000000000000177636  5.86478726582896570108 18.39079422651740713945 17.00000000000000000000
+Triangle 00000000 00646464 5.86478726582896570108 18.39079422651740713945 17.00000000000000000000  5.86367454890970574155 18.61261366859072197144 -0.00000000000000377476  5.86367454890969774794 18.61261366859074684044 17.00000000000000355271
+Triangle 8005007f 00646464 2.00000000000000000000 14.49925830606329490990 17.00000000000000000000  5.86478726582896570108 18.39079422651740713945 17.00000000000000000000  1.41421356237309936432 15.91347186843638894516 17.00000000000000000000
+Triangle 00000000 00646464 5.59298948288021335884 18.95005320163065576367 17.00000000000000355271  5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  5.37669348001054459019 18.99925830465132747804 17.00000000000000000000
+Triangle 00000000 00646464 5.59298948288025954412 18.95005320163063800010 -0.00000000000000377476  5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  5.59298948288021335884 18.95005320163065576367 17.00000000000000355271
+Triangle 8005007f 00646464 0.00000000000000012246 16.49925830606329668626 17.00000000000000000000  5.76671401733323474303 18.81212246122174747143 17.00000000000000000000  -5.37669348001054459019 18.99925830465132747804 17.00000000000000000000
+Triangle 8005007f 00646464 -5.37669348001054459019 18.99925830465132747804 17.00000000000000000000  5.59298948288021335884 18.95005320163065576367 17.00000000000000355271  5.37669348001054459019 18.99925830465132747804 17.00000000000000000000
+Triangle 00000000 00646464 5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  5.59298948288025954412 18.95005320163063800010 -0.00000000000000377476  5.76671401733323474303 18.81212246122174747143 17.00000000000000000000
+Triangle 8005007f 00646464 5.86367454890969774794 18.61261366859074684044 17.00000000000000355271  5.76671401733323474303 18.81212246122174747143 17.00000000000000000000  0.00000000000000012246 16.49925830606329668626 17.00000000000000000000
+Triangle 00000000 00646464 5.86478726582896570108 18.39079422651740713945 0.00000000000000000000  5.86367454890970574155 18.61261366859072197144 -0.00000000000000377476  5.86478726582896570108 18.39079422651740713945 17.00000000000000000000
+Triangle 8005007f 00646464 1.41421356237309936432 15.91347186843638894516 17.00000000000000000000  5.86367454890969774794 18.61261366859074684044 17.00000000000000355271  0.00000000000000012246 16.49925830606329668626 17.00000000000000000000
+Triangle 8005007f 00646464 5.76671401733323474303 18.81212246122174747143 17.00000000000000000000  5.59298948288021335884 18.95005320163065576367 17.00000000000000355271  -5.37669348001054459019 18.99925830465132747804 17.00000000000000000000
+Triangle 80050060 00646464 -3.60000000000000008882 18.99925830465132747804 5.50000000000000000000  5.37669348001054459019 18.99925830465132747804 17.00000000000000000000  3.60000000000000053291 18.99925830465132747804 5.49999999999999911182
+Triangle 8005007f 00646464 5.86478726582896570108 18.39079422651740713945 17.00000000000000000000  5.86367454890969774794 18.61261366859074684044 17.00000000000000355271  1.41421356237309936432 15.91347186843638894516 17.00000000000000000000
+Triangle 8005007f 00646464 4.00004453444152474617 9.99935850881819199287 17.00000000000000000000  5.86478726582896570108 18.39079422651740713945 17.00000000000000000000  2.00000000000000000000 14.49925830606329490990 17.00000000000000000000
+Triangle 00000000 00646464 5.76671401733323474303 18.81212246122174747143 17.00000000000000000000  5.59298948288025954412 18.95005320163063800010 -0.00000000000000377476  5.59298948288021335884 18.95005320163065576367 17.00000000000000355271
+Triangle 00000000 00646464 5.86367454890969774794 18.61261366859074684044 17.00000000000000355271  5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  5.76671401733323474303 18.81212246122174747143 17.00000000000000000000
+Triangle 80050060 00646464 -5.37669348001054459019 18.99925830465132747804 17.00000000000000000000  5.37669348001054459019 18.99925830465132747804 17.00000000000000000000  -3.60000000000000008882 18.99925830465132747804 5.50000000000000000000
+Triangle 80050041 00646464 5.86478726582896570108 18.39079422651740713945 0.00000000000000000000  5.86478726582896570108 18.39079422651740713945 17.00000000000000000000  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000
+Triangle 00000000 00646464 5.86367454890970574155 18.61261366859072197144 -0.00000000000000377476  5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  5.86367454890969774794 18.61261366859074684044 17.00000000000000355271
+Triangle 80050060 00646464 5.37669348001054459019 18.99925830465132747804 17.00000000000000000000  5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  3.60000000000000053291 18.99925830465132747804 5.49999999999999911182
+Triangle 80050041 00646464 4.00004453444152474617 9.99935850881819199287 0.00000000000000000000  5.86478726582896570108 18.39079422651740713945 17.00000000000000000000  4.00004453444152296981 9.99935850881818844016 10.00000000000000177636
+Triangle 80050060 00646464 3.60000000000000053291 18.99925830465132747804 5.49999999999999911182  5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  3.60000000000000053291 18.99925830465132747804 3.00000000000000088818
+Triangle 800a0022 00646464 3.60000000000000053291 18.99925830465132747804 3.00000000000000088818  3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  3.60000000000000053291 18.99925830465132747804 5.49999999999999911182
+Triangle 800a0022 00646464 3.60000000000000053291 18.99925830465132747804 5.49999999999999911182  3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  3.60000000000000008882 12.42079733698064458736 5.50000000000000000000
+Triangle 800a003e 00646464 3.60000000000000053291 18.99925830465132747804 5.49999999999999911182  3.60000000000000008882 12.42079733698064458736 5.50000000000000000000  1.41421356237309492343 15.91347186843639427423 5.50000000000000000000
+Triangle 800a003e 00646464 0.00000000000000000000 16.49925830606329668626 5.50000000000000000000  3.60000000000000053291 18.99925830465132747804 5.49999999999999911182  1.41421356237309492343 15.91347186843639427423 5.50000000000000000000
+Triangle 800a003e 00646464 3.60000000000000053291 18.99925830465132747804 5.49999999999999911182  0.00000000000000000000 16.49925830606329668626 5.50000000000000000000  -3.60000000000000008882 18.99925830465132747804 5.50000000000000000000
+Triangle 800a003e 00646464 1.41421356237309492343 15.91347186843639427423 5.50000000000000000000  3.60000000000000008882 12.42079733698064458736 5.50000000000000000000  2.00000000000000000000 14.49925830606329668626 5.50000000000000088818
+Triangle 8008007d 00646464 2.00000000000000000000 14.49925830606329490990 0.00000000000000000000  5.59298948288025954412 18.95005320163063800010 -0.00000000000000377476  1.41421356237309425730 13.08504474369019732194 0.00000000000000000000
+Triangle 8008007d 00646464 1.41421356237309403525 15.91347186843639249787 0.00000000000000000000  5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  2.00000000000000000000 14.49925830606329490990 0.00000000000000000000
+Triangle 80050060 00646464 3.60000000000000053291 18.99925830465132747804 3.00000000000000088818  5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  -3.60000000000000008882 18.99925830465132392533 3.00000000000000133227
+Triangle 8008007d 00646464 4.00004453444152474617 9.99935850881819199287 0.00000000000000000000  5.86367454890970574155 18.61261366859072197144 -0.00000000000000377476  5.86478726582896570108 18.39079422651740713945 0.00000000000000000000
+Triangle 8008007d 00646464 -5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  1.41421356237309403525 15.91347186843639249787 0.00000000000000000000
+Triangle 8008007d 00646464 5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  5.59298948288025954412 18.95005320163063800010 -0.00000000000000377476  2.00000000000000000000 14.49925830606329490990 0.00000000000000000000
+Triangle 8008007d 00646464 5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  5.86367454890970574155 18.61261366859072197144 -0.00000000000000377476  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000
+Triangle 8008007d 00646464 5.59298948288025954412 18.95005320163063800010 -0.00000000000000377476  5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  1.41421356237309425730 13.08504474369019732194 0.00000000000000000000
+Triangle 80050060 00646464 5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  -5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  -3.60000000000000008882 18.99925830465132392533 3.00000000000000133227
+Triangle 8008007d 00646464 1.41421356237309425730 13.08504474369019732194 0.00000000000000000000  5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000
+Triangle 800a003f 00646464 1.99999999999999911182 14.49925830606329313355 3.00000000000000000000  3.60000000000000053291 18.99925830465132747804 3.00000000000000088818  1.41421356237309492343 15.91347186843639427423 3.00000000000000000000
+Triangle 800a003f 00646464 3.60000000000000053291 18.99925830465132747804 3.00000000000000088818  -3.60000000000000008882 18.99925830465132392533 3.00000000000000133227  0.00000000000000000000 16.49925830606329668626 3.00000000000000000000
+Triangle 800a003f 00646464 1.41421356237309492343 15.91347186843639427423 3.00000000000000000000  3.60000000000000053291 18.99925830465132747804 3.00000000000000088818  0.00000000000000000000 16.49925830606329668626 3.00000000000000000000
+Triangle 800a003f 00646464 3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  3.60000000000000053291 18.99925830465132747804 3.00000000000000088818  1.99999999999999911182 14.49925830606329313355 3.00000000000000000000
+Triangle 8005007f 00646464 0.00000000000000012246 16.49925830606329668626 17.00000000000000000000  -5.37669348001054459019 18.99925830465132747804 17.00000000000000000000  -1.41421356237309781001 15.91347186843638539244 16.99999999999999644729
+Triangle 00000000 00646464 1.41421356237309936432 15.91347186843638894516 17.00000000000000000000  2.00000000000000000000 14.49925830606329668626 5.50000000000000088818  2.00000000000000000000 14.49925830606329490990 17.00000000000000000000
+Triangle 00000000 00646464 1.41421356237309492343 15.91347186843639427423 5.50000000000000000000  2.00000000000000000000 14.49925830606329668626 5.50000000000000088818  1.41421356237309936432 15.91347186843638894516 17.00000000000000000000
+Triangle 00000000 00646464 0.00000000000000000000 16.49925830606329668626 5.50000000000000000000  1.41421356237309492343 15.91347186843639427423 5.50000000000000000000  0.00000000000000012246 16.49925830606329668626 17.00000000000000000000
+Triangle 00000000 00646464 0.00000000000000012246 16.49925830606329668626 17.00000000000000000000  1.41421356237309492343 15.91347186843639427423 5.50000000000000000000  1.41421356237309936432 15.91347186843638894516 17.00000000000000000000
+Triangle 00000000 00646464 -1.41421356237309492343 15.91347186843639427423 5.50000000000000000000  0.00000000000000000000 16.49925830606329668626 5.50000000000000000000  -1.41421356237309781001 15.91347186843638539244 16.99999999999999644729
+Triangle 00000000 00646464 -1.41421356237309781001 15.91347186843638539244 16.99999999999999644729  0.00000000000000000000 16.49925830606329668626 5.50000000000000000000  0.00000000000000012246 16.49925830606329668626 17.00000000000000000000
+Triangle 800a003e 00646464 0.00000000000000000000 16.49925830606329668626 5.50000000000000000000  -1.41421356237309492343 15.91347186843639427423 5.50000000000000000000  -3.60000000000000008882 18.99925830465132747804 5.50000000000000000000
+Triangle 00000000 00646464 1.41421356237309403525 15.91347186843639249787 0.00000000000000000000  0.00000000000000000000 16.49925830606329668626 3.00000000000000000000  0.00000000000000012246 16.49925830606329668626 0.00000000000000000000
+Triangle 00000000 00646464 1.41421356237309492343 15.91347186843639427423 3.00000000000000000000  0.00000000000000000000 16.49925830606329668626 3.00000000000000000000  1.41421356237309403525 15.91347186843639249787 0.00000000000000000000
+Triangle 00000000 00646464 2.00000000000000000000 14.49925830606329490990 0.00000000000000000000  1.41421356237309492343 15.91347186843639427423 3.00000000000000000000  1.41421356237309403525 15.91347186843639249787 0.00000000000000000000
+Triangle 00000000 00646464 1.99999999999999911182 14.49925830606329313355 3.00000000000000000000  1.41421356237309492343 15.91347186843639427423 3.00000000000000000000  2.00000000000000000000 14.49925830606329490990 0.00000000000000000000
+Triangle 800a003f 00646464 0.00000000000000000000 16.49925830606329668626 3.00000000000000000000  -3.60000000000000008882 18.99925830465132392533 3.00000000000000133227  -1.41421356237309492343 15.91347186843639427423 3.00000000000000044409
+Triangle 00000000 00646464 0.00000000000000012246 16.49925830606329668626 0.00000000000000000000  -1.41421356237309492343 15.91347186843639427423 3.00000000000000044409  -1.41421356237309581161 15.91347186843638716880 0.00000000000000000000
+Triangle 00000000 00646464 0.00000000000000000000 16.49925830606329668626 3.00000000000000000000  -1.41421356237309492343 15.91347186843639427423 3.00000000000000044409  0.00000000000000012246 16.49925830606329668626 0.00000000000000000000
+Triangle 8008007d 00646464 -5.59298948288029151854 18.95005320163062023653 -0.00000000000000377476  -5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  1.41421356237309403525 15.91347186843639249787 0.00000000000000000000
+Triangle 8008007d 00646464 0.00000000000000012246 16.49925830606329668626 0.00000000000000000000  -5.59298948288029151854 18.95005320163062023653 -0.00000000000000377476  1.41421356237309403525 15.91347186843639249787 0.00000000000000000000
+Triangle 8008007d 00646464 -5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  -5.59298948288029151854 18.95005320163062023653 -0.00000000000000377476  0.00000000000000012246 16.49925830606329668626 0.00000000000000000000
+Triangle 8008007d 00646464 -1.41421356237309581161 15.91347186843638716880 0.00000000000000000000  -5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  0.00000000000000012246 16.49925830606329668626 0.00000000000000000000
+Triangle 8005007f 00646464 1.41421356237309736592 13.08504474369020087465 17.00000000000000000000  4.00004453444152474617 9.99935850881819199287 17.00000000000000000000  2.00000000000000000000 14.49925830606329490990 17.00000000000000000000
+Triangle 800a003e 00646464 3.60000000000000008882 12.42079733698064458736 5.50000000000000000000  1.41421356237309492343 13.08504474369020442737 5.50000000000000088818  2.00000000000000000000 14.49925830606329668626 5.50000000000000088818
+Triangle 00000000 00646464 2.00000000000000000000 14.49925830606329490990 17.00000000000000000000  1.41421356237309492343 13.08504474369020442737 5.50000000000000088818  1.41421356237309736592 13.08504474369020087465 17.00000000000000000000
+Triangle 00000000 00646464 2.00000000000000000000 14.49925830606329668626 5.50000000000000088818  1.41421356237309492343 13.08504474369020442737 5.50000000000000088818  2.00000000000000000000 14.49925830606329490990 17.00000000000000000000
+Triangle 800a003f 00646464 1.41421356237309514547 13.08504474369020265101 3.00000000000000000000  3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  1.99999999999999911182 14.49925830606329313355 3.00000000000000000000
+Triangle 00000000 00646464 1.41421356237309425730 13.08504474369019732194 0.00000000000000000000  1.99999999999999911182 14.49925830606329313355 3.00000000000000000000  2.00000000000000000000 14.49925830606329490990 0.00000000000000000000
+Triangle 00000000 00646464 1.41421356237309514547 13.08504474369020265101 3.00000000000000000000  1.99999999999999911182 14.49925830606329313355 3.00000000000000000000  1.41421356237309425730 13.08504474369019732194 0.00000000000000000000
+Triangle 8005007f 00646464 -4.00000000000000000000 9.99915810160008611263 17.00000000000000000000  4.00004453444152474617 9.99935850881819199287 17.00000000000000000000  -1.41421356237309292503 13.08504474369019554558 16.99999999999999644729
+Triangle 8005007f 00646464 -1.41421356237309292503 13.08504474369019554558 16.99999999999999644729  4.00004453444152474617 9.99935850881819199287 17.00000000000000000000  -0.00000000000000036739 12.49925830606329490990 17.00000000000000000000
+Triangle 8005007f 00646464 -0.00000000000000036739 12.49925830606329490990 17.00000000000000000000  4.00004453444152474617 9.99935850881819199287 17.00000000000000000000  1.41421356237309736592 13.08504474369020087465 17.00000000000000000000
+Triangle 00000000 00646464 1.41421356237309736592 13.08504474369020087465 17.00000000000000000000  -0.00000000000000111022 12.49925830606329668626 5.50000000000000000000  -0.00000000000000036739 12.49925830606329490990 17.00000000000000000000
+Triangle 00000000 00646464 1.41421356237309492343 13.08504474369020442737 5.50000000000000088818  -0.00000000000000111022 12.49925830606329668626 5.50000000000000000000  1.41421356237309736592 13.08504474369020087465 17.00000000000000000000
+Triangle 00000000 00646464 -0.00000000000000036739 12.49925830606329490990 17.00000000000000000000  -1.41421356237309514547 13.08504474369020265101 5.50000000000000000000  -1.41421356237309292503 13.08504474369019554558 16.99999999999999644729
+Triangle 00000000 00646464 -0.00000000000000111022 12.49925830606329668626 5.50000000000000000000  -1.41421356237309514547 13.08504474369020265101 5.50000000000000000000  -0.00000000000000036739 12.49925830606329490990 17.00000000000000000000
+Triangle 800a003e 00646464 -0.00000000000000111022 12.49925830606329668626 5.50000000000000000000  1.41421356237309492343 13.08504474369020442737 5.50000000000000088818  3.60000000000000008882 12.42079733698064458736 5.50000000000000000000
+Triangle 800a003e 00646464 -3.60000000000000008882 12.42079733698064458736 5.50000000000000000000  -0.00000000000000111022 12.49925830606329668626 5.50000000000000000000  3.60000000000000008882 12.42079733698064458736 5.50000000000000000000
+Triangle 800a003e 00646464 -1.41421356237309514547 13.08504474369020265101 5.50000000000000000000  -0.00000000000000111022 12.49925830606329668626 5.50000000000000000000  -3.60000000000000008882 12.42079733698064458736 5.50000000000000000000
+Triangle 800a003f 00646464 0.00000000000000000000 10.34233636789799071209 3.00000000000000000000  3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  1.41421356237309514547 13.08504474369020265101 3.00000000000000000000
+Triangle 00000000 00646464 -0.00000000000000022204 12.49925830606329313355 3.00000000000000000000  1.41421356237309514547 13.08504474369020265101 3.00000000000000000000  -0.00000000000000036739 12.49925830606329490990 0.00000000000000000000
+Triangle 00000000 00646464 -0.00000000000000036739 12.49925830606329490990 0.00000000000000000000  1.41421356237309514547 13.08504474369020265101 3.00000000000000000000  1.41421356237309425730 13.08504474369019732194 0.00000000000000000000
+Triangle 800a003f 00646464 -0.00000000000000022204 12.49925830606329313355 3.00000000000000000000  0.00000000000000000000 10.34233636789799071209 3.00000000000000000000  1.41421356237309514547 13.08504474369020265101 3.00000000000000000000
+Triangle 800a003f 00646464 -1.41421356237309536752 13.08504474369020265101 3.00000000000000000000  -3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  -0.00000000000000022204 12.49925830606329313355 3.00000000000000000000
+Triangle 00000000 00646464 -1.41421356237309536752 13.08504474369020265101 3.00000000000000000000  -0.00000000000000022204 12.49925830606329313355 3.00000000000000000000  -1.41421356237310003046 13.08504474369020620372 0.00000000000000000000
+Triangle 800a003f 00646464 -3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  0.00000000000000000000 10.34233636789799071209 3.00000000000000000000  -0.00000000000000022204 12.49925830606329313355 3.00000000000000000000
+Triangle 00000000 00646464 -1.41421356237310003046 13.08504474369020620372 0.00000000000000000000  -0.00000000000000022204 12.49925830606329313355 3.00000000000000000000  -0.00000000000000036739 12.49925830606329490990 0.00000000000000000000
+Triangle 8008007d 00646464 4.00004453444152474617 9.99935850881819199287 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  -0.00000000000000036739 12.49925830606329490990 0.00000000000000000000
+Triangle 8008007d 00646464 -0.00000000000000036739 12.49925830606329490990 0.00000000000000000000  1.41421356237309425730 13.08504474369019732194 0.00000000000000000000  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000
+Triangle 8008007d 00646464 -0.00000000000000036739 12.49925830606329490990 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  -1.41421356237310003046 13.08504474369020620372 0.00000000000000000000
+Triangle 8005007f 00646464 -5.37669348001054459019 18.99925830465132747804 17.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 17.00000000000000000000  -1.41421356237309781001 15.91347186843638539244 16.99999999999999644729
+Triangle 80050060 00646464 -5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  -5.37669348001054459019 18.99925830465132747804 17.00000000000000000000  -3.60000000000000008882 18.99925830465132747804 5.50000000000000000000
+Triangle 00000000 00646464 -5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  -5.86367454890973771597 18.61261366859057986289 0.00000000000000377476  -5.76671401733323474303 18.81212246122174747143 17.00000000000000000000
+Triangle 00000000 00646464 -5.59298948288021069430 18.95005320163065931638 17.00000000000000355271  -5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  -5.76671401733323474303 18.81212246122174747143 17.00000000000000000000
+Triangle 8005007f 00646464 -5.86478726582896570108 18.39079422651740713945 17.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 17.00000000000000000000  -5.59298948288021069430 18.95005320163065931638 17.00000000000000355271
+Triangle 00000000 00646464 -5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  -5.59298948288029151854 18.95005320163062023653 -0.00000000000000377476  -5.37669348001054459019 18.99925830465132747804 17.00000000000000000000
+Triangle 80050057 00646464 -5.86478726582896570108 18.39079422651740713945 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  -5.86478726582896570108 18.39079422651740713945 17.00000000000000000000
+Triangle 00000000 00646464 -5.59298948288029151854 18.95005320163062023653 -0.00000000000000377476  -5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  -5.59298948288021069430 18.95005320163065931638 17.00000000000000355271
+Triangle 8005007f 00646464 -5.86367454890969863612 18.61261366859075039315 17.00000000000000355271  -5.86478726582896570108 18.39079422651740713945 17.00000000000000000000  -5.76671401733323474303 18.81212246122174747143 17.00000000000000000000
+Triangle 8005007f 00646464 -5.59298948288021069430 18.95005320163065931638 17.00000000000000355271  -4.00000000000000000000 9.99915810160008611263 17.00000000000000000000  -5.37669348001054459019 18.99925830465132747804 17.00000000000000000000
+Triangle 8005007f 00646464 -5.76671401733323474303 18.81212246122174747143 17.00000000000000000000  -5.86478726582896570108 18.39079422651740713945 17.00000000000000000000  -5.59298948288021069430 18.95005320163065931638 17.00000000000000355271
+Triangle 00000000 00646464 -5.86367454890969863612 18.61261366859075039315 17.00000000000000355271  -5.86478726582896570108 18.39079422651740713945 0.00000000000000000000  -5.86478726582896570108 18.39079422651740713945 17.00000000000000000000
+Triangle 00000000 00646464 -5.76671401733323474303 18.81212246122174747143 17.00000000000000000000  -5.86367454890973771597 18.61261366859057986289 0.00000000000000377476  -5.86367454890969863612 18.61261366859075039315 17.00000000000000355271
+Triangle 80050057 00646464 -5.86478726582896570108 18.39079422651740713945 17.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 17.00000000000000000000
+Triangle 00000000 00646464 -5.86367454890973771597 18.61261366859057986289 0.00000000000000377476  -5.86478726582896570108 18.39079422651740713945 0.00000000000000000000  -5.86367454890969863612 18.61261366859075039315 17.00000000000000355271
+Triangle 00000000 00646464 -5.37669348001054459019 18.99925830465132747804 17.00000000000000000000  -5.59298948288029151854 18.95005320163062023653 -0.00000000000000377476  -5.59298948288021069430 18.95005320163065931638 17.00000000000000355271
+Triangle 00000000 00646464 -1.99999999999999911182 14.49925830606329313355 5.50000000000000000000  -1.41421356237309492343 15.91347186843639427423 5.50000000000000000000  -2.00000000000000000000 14.49925830606329490990 17.00000000000000000000
+Triangle 00000000 00646464 -2.00000000000000000000 14.49925830606329490990 17.00000000000000000000  -1.41421356237309492343 15.91347186843639427423 5.50000000000000000000  -1.41421356237309781001 15.91347186843638539244 16.99999999999999644729
+Triangle 8005007f 00646464 -1.41421356237309781001 15.91347186843638539244 16.99999999999999644729  -4.00000000000000000000 9.99915810160008611263 17.00000000000000000000  -2.00000000000000000000 14.49925830606329490990 17.00000000000000000000
+Triangle 800a003e 00646464 -3.60000000000000008882 18.99925830465132747804 5.50000000000000000000  -1.41421356237309492343 15.91347186843639427423 5.50000000000000000000  -3.60000000000000008882 12.42079733698064458736 5.50000000000000000000
+Triangle 80050060 00646464 -3.60000000000000008882 18.99925830465132392533 3.00000000000000133227  -5.37669348001054459019 18.99925830465132747804 0.00000000000000000000  -3.60000000000000008882 18.99925830465132747804 5.50000000000000000000
+Triangle 800a0007 00646464 -3.60000000000000008882 18.99925830465132747804 5.50000000000000000000  -3.60000000000000008882 12.42079733698064458736 5.50000000000000000000  -3.60000000000000008882 18.99925830465132392533 3.00000000000000133227
+Triangle 800a0007 00646464 -3.60000000000000008882 18.99925830465132392533 3.00000000000000133227  -3.60000000000000008882 12.42079733698064458736 5.50000000000000000000  -3.60000000000000008882 12.42079733698064458736 3.00000000000000000000
+Triangle 800a003e 00646464 -1.41421356237309492343 15.91347186843639427423 5.50000000000000000000  -1.99999999999999911182 14.49925830606329313355 5.50000000000000000000  -3.60000000000000008882 12.42079733698064458736 5.50000000000000000000
+Triangle 800a003f 00646464 -3.60000000000000008882 18.99925830465132392533 3.00000000000000133227  -3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  -1.41421356237309492343 15.91347186843639427423 3.00000000000000044409
+Triangle 8008007d 00646464 -1.41421356237310003046 13.08504474369020620372 0.00000000000000000000  -5.86478726582896570108 18.39079422651740713945 0.00000000000000000000  -2.00000000000000000000 14.49925830606329490990 0.00000000000000000000
+Triangle 8008007d 00646464 -2.00000000000000000000 14.49925830606329490990 0.00000000000000000000  -5.86367454890973771597 18.61261366859057986289 0.00000000000000377476  -1.41421356237309581161 15.91347186843638716880 0.00000000000000000000
+Triangle 8008007d 00646464 -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  -5.86478726582896570108 18.39079422651740713945 0.00000000000000000000  -1.41421356237310003046 13.08504474369020620372 0.00000000000000000000
+Triangle 8008007d 00646464 -5.86367454890973771597 18.61261366859057986289 0.00000000000000377476  -5.76671401733323474303 18.81212246122174747143 0.00000000000000000000  -1.41421356237309581161 15.91347186843638716880 0.00000000000000000000
+Triangle 8008007d 00646464 -5.86478726582896570108 18.39079422651740713945 0.00000000000000000000  -5.86367454890973771597 18.61261366859057986289 0.00000000000000377476  -2.00000000000000000000 14.49925830606329490990 0.00000000000000000000
+Triangle 00000000 00646464 -1.41421356237309581161 15.91347186843638716880 0.00000000000000000000  -2.00000000000000000000 14.49925830606329668626 3.00000000000000000000  -2.00000000000000000000 14.49925830606329490990 0.00000000000000000000
+Triangle 00000000 00646464 -1.41421356237309492343 15.91347186843639427423 3.00000000000000044409  -2.00000000000000000000 14.49925830606329668626 3.00000000000000000000  -1.41421356237309581161 15.91347186843638716880 0.00000000000000000000
+Triangle 800a003f 00646464 -1.41421356237309492343 15.91347186843639427423 3.00000000000000044409  -3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  -2.00000000000000000000 14.49925830606329668626 3.00000000000000000000
+Triangle 00000000 00646464 -1.41421356237309292503 13.08504474369019554558 16.99999999999999644729  -1.99999999999999911182 14.49925830606329313355 5.50000000000000000000  -2.00000000000000000000 14.49925830606329490990 17.00000000000000000000
+Triangle 00000000 00646464 -1.41421356237309514547 13.08504474369020265101 5.50000000000000000000  -1.99999999999999911182 14.49925830606329313355 5.50000000000000000000  -1.41421356237309292503 13.08504474369019554558 16.99999999999999644729
+Triangle 8005007f 00646464 -2.00000000000000000000 14.49925830606329490990 17.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 17.00000000000000000000  -1.41421356237309292503 13.08504474369019554558 16.99999999999999644729
+Triangle 800a003e 00646464 -1.99999999999999911182 14.49925830606329313355 5.50000000000000000000  -1.41421356237309514547 13.08504474369020265101 5.50000000000000000000  -3.60000000000000008882 12.42079733698064458736 5.50000000000000000000
+Triangle 800a003f 00646464 -2.00000000000000000000 14.49925830606329668626 3.00000000000000000000  -3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  -1.41421356237309536752 13.08504474369020265101 3.00000000000000000000
+Triangle 00000000 00646464 -2.00000000000000000000 14.49925830606329668626 3.00000000000000000000  -1.41421356237309536752 13.08504474369020265101 3.00000000000000000000  -2.00000000000000000000 14.49925830606329490990 0.00000000000000000000
+Triangle 00000000 00646464 -2.00000000000000000000 14.49925830606329490990 0.00000000000000000000  -1.41421356237309536752 13.08504474369020265101 3.00000000000000000000  -1.41421356237310003046 13.08504474369020620372 0.00000000000000000000
 Triangle 80080072 00646464 29.60769515458673240005 10.00000000000000000000 9.25000000000000177636  29.60769515458673240005 10.00000000000000000000 10.00000000000000177636  40.00000000000000000000 4.00000000000000000000 20.00000000000000000000
-Triangle 80080072 00646464 29.60769515458673240005 10.00000000000000000000 7.86749424409632425181  29.60769515458673240005 10.00000000000000000000 9.25000000000000177636  40.00000000000000000000 4.00000000000000000000 20.00000000000000000000
-Triangle 80080072 00646464 29.60769515458673240005 10.00000000000000000000 0.00000000000000000000  29.60769515458673240005 10.00000000000000000000 7.86749424409632425181  40.00000000000000000000 4.00000000000000000000 20.00000000000000000000
+Triangle 80080072 00646464 29.60769515458673240005 10.00000000000000000000 7.86749424409632247546  29.60769515458673240005 10.00000000000000000000 9.25000000000000177636  40.00000000000000000000 4.00000000000000000000 20.00000000000000000000
+Triangle 80080072 00646464 29.60769515458673240005 10.00000000000000000000 0.00000000000000000000  29.60769515458673240005 10.00000000000000000000 7.86749424409632247546  40.00000000000000000000 4.00000000000000000000 20.00000000000000000000
 Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 10.00000000000000177636  25.49974950295094089370 9.99989709282784389188 10.00000000000000177636  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000
-Triangle 80080069 00646464 16.82606279080736655374 9.99967981035932673706 10.00000000000000177636  15.49974950608864077140 9.99964658519982130258 10.00000000000000177636  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000
-Triangle 80080069 00646464 25.49974950295094089370 9.99989709282784389188 10.00000000000000177636  20.49974950451982991240 9.99977183901383170905 10.00000000000000177636  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000
-Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 20.00000000000000000000  20.49974950451982991240 9.99977183901383170905 10.00000000000000177636  16.82606279080736655374 9.99967981035932673706 10.00000000000000177636
+Triangle 80080069 00646464 16.80386984451412857311 9.99967925440909510826 10.00000000000000177636  15.49974950608864254775 9.99964658519982130258 10.00000000000000177636  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000
+Triangle 80080069 00646464 25.49974950295094089370 9.99989709282784389188 10.00000000000000177636  20.49974950451981214883 9.99977183901383348541 10.00000000000000177636  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000
+Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 20.00000000000000000000  20.49974950451981214883 9.99977183901383348541 10.00000000000000177636  16.80386984451412857311 9.99967925440909510826 10.00000000000000177636
 Triangle 80080072 00646464 40.00000000000000000000 4.00000000000000000000 0.00000000000000000000  29.60769515458673240005 10.00000000000000000000 0.00000000000000000000  40.00000000000000000000 4.00000000000000000000 20.00000000000000000000
 Triangle 80080072 00646464 40.00000000000000000000 4.00000000000000000000 20.00000000000000000000  29.60769515458673240005 10.00000000000000000000 10.00000000000000177636  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000
-Triangle 80080069 00646464 4.04443042702799893107 9.99935962071865702683 10.00000000000000177636  4.04443042702799804289 9.99935962071865525047 17.00000000000000000000  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000
-Triangle 80080069 00646464 4.04443042702799893107 9.99935962071865702683 10.00000000000000177636  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000  15.49974950608864077140 9.99964658519982130258 10.00000000000000177636
+Triangle 80080069 00646464 4.00004453444152296981 9.99935850881818844016 10.00000000000000177636  4.00004453444152474617 9.99935850881819199287 17.00000000000000000000  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000
+Triangle 80080069 00646464 4.00004453444152296981 9.99935850881818844016 10.00000000000000177636  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000  15.49974950608864254775 9.99964658519982130258 10.00000000000000177636
 Triangle 8008007c 00646464 40.00000000000000000000 4.00000000000000000000 20.00000000000000000000  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000  -40.00000000000000000000 4.00000000000000000000 20.00000000000000000000
-Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 20.00000000000000000000  4.04443042702799804289 9.99935962071865525047 17.00000000000000000000  -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000
+Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 20.00000000000000000000  4.00004453444152474617 9.99935850881819199287 17.00000000000000000000  -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000
 Triangle 8008007c 00646464 -40.00000000000000000000 4.00000000000000000000 20.00000000000000000000  29.60769515458673240005 10.00000000000000000000 20.00000000000000000000  -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000
 Triangle 80080069 00646464 25.49974950295093734098 9.99989709282784389188 9.25000000000000177636  25.49974950295094089370 9.99989709282784389188 9.62500000000000000000  29.60769515458673240005 10.00000000000000000000 10.00000000000000177636
-Triangle 800c0007 00646464 25.49974950295094089370 9.99989709282784389188 10.00000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636  20.49974950451982991240 9.99977183901383170905 10.00000000000000177636
+Triangle 800c0007 00646464 25.49974950295094089370 9.99989709282784389188 10.00000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636  20.49974950451981214883 9.99977183901383348541 10.00000000000000177636
 Triangle 800c0034 00646464 25.49974950295093734098 9.99989709282784389188 9.25000000000000177636  25.49974950295094089370 10.24989709282784566824 10.00000000000000177636  25.49974950295094089370 9.99989709282784389188 9.62500000000000000000
 Triangle 800c0034 00646464 25.49974950295093734098 9.99989709282784389188 9.25000000000000177636  25.49974950295094089370 10.24989709282784566824 9.25000000000000177636  25.49974950295094089370 10.24989709282784566824 10.00000000000000177636
-Triangle 800c003e 00646464 25.49974950295094089370 10.24989709282784566824 10.00000000000000177636  19.89516775104054602252 10.24975669377972842256 9.25000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636
-Triangle 800c003e 00646464 25.49974950295094089370 10.24989709282784566824 9.25000000000000177636  19.89516775104054602252 10.24975669377972842256 9.25000000000000177636  25.49974950295094089370 10.24989709282784566824 10.00000000000000177636
+Triangle 800c003e 00646464 25.49974950295094089370 10.24989709282784566824 10.00000000000000177636  19.89516775104054246981 10.24975669377972842256 9.25000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636
+Triangle 800c003e 00646464 25.49974950295094089370 10.24989709282784566824 9.25000000000000177636  19.89516775104054246981 10.24975669377972842256 9.25000000000000177636  25.49974950295094089370 10.24989709282784566824 10.00000000000000177636
 Triangle 800c0007 00646464 25.49974950295094089370 9.99989709282784389188 10.00000000000000177636  25.49974950295094089370 10.24989709282784566824 10.00000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636
 Triangle 800c0034 00646464 25.49974950295094089370 10.24989709282784566824 10.00000000000000177636  25.49974950295094089370 9.99989709282784389188 10.00000000000000177636  25.49974950295094089370 9.99989709282784389188 9.62500000000000000000
 Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 10.00000000000000177636  25.49974950295094089370 9.99989709282784389188 9.62500000000000000000  25.49974950295094089370 9.99989709282784389188 10.00000000000000177636
 Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 10.00000000000000177636  29.60769515458673240005 10.00000000000000000000 9.25000000000000177636  25.49974950295093734098 9.99989709282784389188 9.25000000000000177636
-Triangle 800c003e 00646464 19.89516775104054602252 10.24975669377972842256 9.25000000000000177636  20.69335782111729571398 10.24977668904985073084 7.86749424409632425181  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636
-Triangle 800c0007 00646464 20.49974950451982991240 9.99977183901383170905 10.00000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636  16.82606279080736655374 9.99967981035932673706 10.00000000000000177636
-Triangle 800c003e 00646464 15.49974950608864610047 10.24964658519982307894 10.00000000000000177636  20.69335782111729571398 10.24977668904985073084 7.86749424409632425181  19.19335782158794856400 10.24973911290564743126 7.86749424409632425181
-Triangle 80080069 00646464 20.69335782111729571398 9.99977668904985073084 7.86749424409632425181  20.29426278607892086825 9.99976669141478957670 8.55874712204816390226  29.60769515458673240005 10.00000000000000000000 9.25000000000000177636
-Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 9.25000000000000177636  29.60769515458673240005 10.00000000000000000000 7.86749424409632425181  20.69335782111729571398 9.99977668904985073084 7.86749424409632425181
-Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 9.25000000000000177636  20.29426278607892086825 9.99976669141478957670 8.55874712204816390226  25.49974950295093734098 9.99989709282784389188 9.25000000000000177636
-Triangle 800c002b 00646464 19.89516775104054602252 9.99975669377972664620 9.25000000000000177636  19.89516775104054602252 10.24975669377972842256 9.25000000000000177636  25.49974950295094089370 10.24989709282784566824 9.25000000000000177636
+Triangle 800c003e 00646464 19.89516775104054246981 10.24975669377972842256 9.25000000000000177636  20.69335782111729571398 10.24977668904985073084 7.86749424409632247546  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636
+Triangle 800c0007 00646464 20.49974950451981214883 9.99977183901383348541 10.00000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636  16.80386984451412857311 9.99967925440909510826 10.00000000000000177636
+Triangle 800c003e 00646464 15.49974950608864610047 10.24964658519982307894 10.00000000000000177636  20.69335782111729571398 10.24977668904985073084 7.86749424409632247546  19.19335782158794856400 10.24973911290564743126 7.86749424409632247546
+Triangle 80080069 00646464 20.69335782111729571398 9.99977668904984895448 7.86749424409632158728  20.29426278607891731554 9.99976669141478957670 8.55874712204816212591  29.60769515458673240005 10.00000000000000000000 9.25000000000000177636
+Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 9.25000000000000177636  29.60769515458673240005 10.00000000000000000000 7.86749424409632247546  20.69335782111729571398 9.99977668904984895448 7.86749424409632158728
+Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 9.25000000000000177636  20.29426278607891731554 9.99976669141478957670 8.55874712204816212591  25.49974950295093734098 9.99989709282784389188 9.25000000000000177636
+Triangle 800c002b 00646464 19.89516775104054602252 9.99975669377972664620 9.25000000000000177636  19.89516775104054246981 10.24975669377972842256 9.25000000000000177636  25.49974950295094089370 10.24989709282784566824 9.25000000000000177636
 Triangle 800c002b 00646464 25.49974950295094089370 10.24989709282784566824 9.25000000000000177636  25.49974950295093734098 9.99989709282784389188 9.25000000000000177636  22.69745862699573279997 9.99982689330378704540 9.25000000000000177636
 Triangle 800c002b 00646464 19.89516775104054602252 9.99975669377972664620 9.25000000000000177636  25.49974950295094089370 10.24989709282784566824 9.25000000000000177636  22.69745862699573279997 9.99982689330378704540 9.25000000000000177636
-Triangle 80080069 00646464 22.69745862699573279997 9.99982689330378704540 9.25000000000000177636  25.49974950295093734098 9.99989709282784389188 9.25000000000000177636  20.29426278607892086825 9.99976669141478957670 8.55874712204816390226
-Triangle 800c0022 00646464 20.69335782111729571398 9.99977668904985073084 7.86749424409632425181  20.69335782111729571398 10.24977668904985073084 7.86749424409632425181  19.89516775104054602252 10.24975669377972842256 9.25000000000000177636
-Triangle 800c0022 00646464 20.69335782111729571398 9.99977668904985073084 7.86749424409632425181  19.89516775104054602252 10.24975669377972842256 9.25000000000000177636  20.29426278607892086825 9.99976669141478957670 8.55874712204816390226
-Triangle 80080069 00646464 19.89516775104054602252 9.99975669377972664620 9.25000000000000177636  22.69745862699573279997 9.99982689330378704540 9.25000000000000177636  20.29426278607892086825 9.99976669141478957670 8.55874712204816390226
-Triangle 800c0007 00646464 15.49974950608864077140 9.99964658519982130258 10.00000000000000177636  16.82606279080736655374 9.99967981035932673706 10.00000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636
-Triangle 80080069 00646464 16.26289855862854949464 9.99966570266572318815 9.55939568894602942351  14.10037233224694652733 9.99961152973415678957 7.86749424409632425181  15.49974950608864077140 9.99964658519982130258 10.00000000000000177636
-Triangle 800c0010 00646464 15.49974950608864077140 9.99964658519982130258 10.00000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636  19.19335782158794856400 10.24973911290564743126 7.86749424409632425181
-Triangle 80080069 00646464 4.04443042702799804289 9.99935962071865525047 0.00000000000000000000  15.49974950608864077140 9.99964658519982130258 10.00000000000000177636  14.10037233224694652733 9.99961152973415678957 7.86749424409632425181
-Triangle 80080069 00646464 4.04443042702799804289 9.99935962071865525047 0.00000000000000000000  4.04443042702799893107 9.99935962071865702683 10.00000000000000177636  15.49974950608864077140 9.99964658519982130258 10.00000000000000177636
-Triangle 800c0010 00646464 15.49974950608864077140 9.99964658519982130258 10.00000000000000177636  19.19335782158794856400 10.24973911290564743126 7.86749424409632425181  16.26289855862854949464 9.99966570266572318815 9.55939568894602942351
-Triangle 800c0010 00646464 17.34655366383829644406 9.99969284905273525510 8.93374712204816567862  16.26289855862854949464 9.99966570266572318815 9.55939568894602942351  19.19335782158794856400 10.24973911290564743126 7.86749424409632425181
-Triangle 80080069 00646464 16.26289855862854949464 9.99966570266572318815 9.55939568894602942351  17.34655366383829644406 9.99969284905273525510 8.93374712204816567862  14.10037233224694652733 9.99961152973415678957 7.86749424409632425181
-Triangle 80080069 00646464 19.19335782158795211672 9.99973911290564743126 7.86749424409632425181  14.10037233224694652733 9.99961152973415678957 7.86749424409632425181  17.34655366383829644406 9.99969284905273525510 8.93374712204816567862
-Triangle 800c0022 00646464 19.89516775104054602252 10.24975669377972842256 9.25000000000000177636  19.89516775104054602252 9.99975669377972664620 9.25000000000000177636  20.29426278607892086825 9.99976669141478957670 8.55874712204816390226
-Triangle 800c0010 00646464 17.34655366383829644406 9.99969284905273525510 8.93374712204816567862  19.19335782158794856400 10.24973911290564743126 7.86749424409632425181  19.19335782158795211672 9.99973911290564743126 7.86749424409632425181
-Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 7.86749424409632425181  29.60769515458673240005 10.00000000000000000000 0.00000000000000000000  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000
-Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 7.86749424409632425181  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000  20.69335782111729571398 9.99977668904985073084 7.86749424409632425181
-Triangle 800c0019 00646464 19.19335782158795211672 9.99973911290564743126 7.86749424409632425181  19.19335782158794856400 10.24973911290564743126 7.86749424409632425181  20.69335782111729571398 10.24977668904985073084 7.86749424409632425181
-Triangle 800c0019 00646464 19.19335782158795211672 9.99973911290564743126 7.86749424409632425181  20.69335782111729571398 10.24977668904985073084 7.86749424409632425181  19.94335782135262036263 9.99975790097774819287 7.86749424409632425181
-Triangle 800c0019 00646464 20.69335782111729571398 10.24977668904985073084 7.86749424409632425181  20.69335782111729571398 9.99977668904985073084 7.86749424409632425181  19.94335782135262036263 9.99975790097774819287 7.86749424409632425181
-Triangle 80080069 00646464 19.19335782158795211672 9.99973911290564743126 7.86749424409632425181  19.94335782135262036263 9.99975790097774819287 7.86749424409632425181  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000
-Triangle 80080069 00646464 19.94335782135262036263 9.99975790097774819287 7.86749424409632425181  20.69335782111729571398 9.99977668904985073084 7.86749424409632425181  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000
-Triangle 80080069 00646464 14.10037233224694652733 9.99961152973415678957 7.86749424409632425181  19.19335782158795211672 9.99973911290564743126 7.86749424409632425181  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000
-Triangle 8008007d 00646464 -39.00000000000000000000 0.00000000000000000000 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  39.00000000000000000000 0.00000000000000000000 0.00000000000000000000
-Triangle 8008007d 00646464 29.60769515458673240005 10.00000000000000000000 0.00000000000000000000  40.00000000000000000000 4.00000000000000000000 0.00000000000000000000  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000
-Triangle 8008007d 00646464 40.00000000000000000000 4.00000000000000000000 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  4.04443042702799804289 9.99935962071865525047 0.00000000000000000000
-Triangle 8008007d 00646464 40.00000000000000000000 1.00000000000000000000 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  40.00000000000000000000 4.00000000000000000000 0.00000000000000000000
-Triangle 8008007d 00646464 39.70710678118654612945 0.29289321881345248277 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  40.00000000000000000000 1.00000000000000000000 0.00000000000000000000
-Triangle 8008007d 00646464 39.00000000000000000000 0.00000000000000000000 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  39.70710678118654612945 0.29289321881345248277 0.00000000000000000000
+Triangle 80080069 00646464 22.69745862699573279997 9.99982689330378704540 9.25000000000000177636  25.49974950295093734098 9.99989709282784389188 9.25000000000000177636  20.29426278607891731554 9.99976669141478957670 8.55874712204816212591
+Triangle 800c0022 00646464 20.69335782111729571398 9.99977668904984895448 7.86749424409632158728  20.69335782111729571398 10.24977668904985073084 7.86749424409632247546  19.89516775104054246981 10.24975669377972842256 9.25000000000000177636
+Triangle 800c0022 00646464 20.69335782111729571398 9.99977668904984895448 7.86749424409632158728  19.89516775104054246981 10.24975669377972842256 9.25000000000000177636  20.29426278607891731554 9.99976669141478957670 8.55874712204816212591
+Triangle 80080069 00646464 19.89516775104054602252 9.99975669377972664620 9.25000000000000177636  22.69745862699573279997 9.99982689330378704540 9.25000000000000177636  20.29426278607891731554 9.99976669141478957670 8.55874712204816212591
+Triangle 800c0007 00646464 15.49974950608864254775 9.99964658519982130258 10.00000000000000177636  16.80386984451412857311 9.99967925440909510826 10.00000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636
+Triangle 80080069 00646464 16.24957611838581783559 9.99966536892843649298 9.56708740340884666864  14.07344672738262403300 9.99961085522721759844 7.86749424409632247546  15.49974950608864254775 9.99964658519982130258 10.00000000000000177636
+Triangle 800c0010 00646464 15.49974950608864254775 9.99964658519982130258 10.00000000000000177636  15.49974950608864610047 10.24964658519982307894 10.00000000000000177636  19.19335782158794856400 10.24973911290564743126 7.86749424409632247546
+Triangle 80080069 00646464 4.00004453444152474617 9.99935850881819199287 0.00000000000000000000  15.49974950608864254775 9.99964658519982130258 10.00000000000000177636  14.07344672738262403300 9.99961085522721759844 7.86749424409632247546
+Triangle 80080069 00646464 4.00004453444152474617 9.99935850881819199287 0.00000000000000000000  4.00004453444152296981 9.99935850881818844016 10.00000000000000177636  15.49974950608864254775 9.99964658519982130258 10.00000000000000177636
+Triangle 800c0010 00646464 15.49974950608864254775 9.99964658519982130258 10.00000000000000177636  19.19335782158794856400 10.24973911290564743126 7.86749424409632247546  16.24957611838581783559 9.99966536892843649298 9.56708740340884666864
+Triangle 800c0010 00646464 17.34655366383829999677 9.99969284905273525510 8.93374712204816212591  16.24957611838581783559 9.99966536892843649298 9.56708740340884666864  19.19335782158794856400 10.24973911290564743126 7.86749424409632247546
+Triangle 80080069 00646464 16.24957611838581783559 9.99966536892843649298 9.56708740340884666864  17.34655366383829999677 9.99969284905273525510 8.93374712204816212591  14.07344672738262403300 9.99961085522721759844 7.86749424409632247546
+Triangle 80080069 00646464 19.19335782158794856400 9.99973911290564565491 7.86749424409632158728  14.07344672738262403300 9.99961085522721759844 7.86749424409632247546  17.34655366383829999677 9.99969284905273525510 8.93374712204816212591
+Triangle 800c0022 00646464 19.89516775104054246981 10.24975669377972842256 9.25000000000000177636  19.89516775104054602252 9.99975669377972664620 9.25000000000000177636  20.29426278607891731554 9.99976669141478957670 8.55874712204816212591
+Triangle 800c0010 00646464 17.34655366383829999677 9.99969284905273525510 8.93374712204816212591  19.19335782158794856400 10.24973911290564743126 7.86749424409632247546  19.19335782158794856400 9.99973911290564565491 7.86749424409632158728
+Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 7.86749424409632247546  29.60769515458673240005 10.00000000000000000000 0.00000000000000000000  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000
+Triangle 80080069 00646464 29.60769515458673240005 10.00000000000000000000 7.86749424409632247546  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000  20.69335782111729571398 9.99977668904984895448 7.86749424409632158728
+Triangle 800c0019 00646464 19.19335782158794856400 9.99973911290564565491 7.86749424409632158728  19.19335782158794856400 10.24973911290564743126 7.86749424409632247546  20.69335782111729571398 10.24977668904985073084 7.86749424409632247546
+Triangle 800c0019 00646464 19.19335782158794856400 9.99973911290564565491 7.86749424409632158728  20.69335782111729571398 10.24977668904985073084 7.86749424409632247546  19.94335782135262036263 9.99975790097774819287 7.86749424409632247546
+Triangle 800c0019 00646464 20.69335782111729571398 10.24977668904985073084 7.86749424409632247546  20.69335782111729571398 9.99977668904984895448 7.86749424409632158728  19.94335782135262036263 9.99975790097774819287 7.86749424409632247546
+Triangle 80080069 00646464 19.19335782158794856400 9.99973911290564565491 7.86749424409632158728  19.94335782135262036263 9.99975790097774819287 7.86749424409632247546  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000
+Triangle 80080069 00646464 19.94335782135262036263 9.99975790097774819287 7.86749424409632247546  20.69335782111729571398 9.99977668904984895448 7.86749424409632158728  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000
+Triangle 80080069 00646464 14.07344672738262403300 9.99961085522721759844 7.86749424409632247546  19.19335782158794856400 9.99973911290564565491 7.86749424409632158728  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000
+Triangle 8008007d 00646464 -39.00000000000000000000 0.00000000000000000000 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  39.00000000000000000000 0.00000000000000000000 0.00000000000000000000
+Triangle 8008007d 00646464 29.60769515458673240005 10.00000000000000000000 0.00000000000000000000  40.00000000000000000000 4.00000000000000000000 0.00000000000000000000  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000
+Triangle 8008007d 00646464 40.00000000000000000000 4.00000000000000000000 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  4.00004453444152474617 9.99935850881819199287 0.00000000000000000000
+Triangle 8008007d 00646464 40.00000000000000000000 1.00000000000000000000 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  40.00000000000000000000 4.00000000000000000000 0.00000000000000000000
+Triangle 8008007d 00646464 39.70710678118654612945 0.29289321881345248277 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  40.00000000000000000000 1.00000000000000000000 0.00000000000000000000
+Triangle 8008007d 00646464 39.00000000000000000000 0.00000000000000000000 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  39.70710678118654612945 0.29289321881345248277 0.00000000000000000000
 Triangle 8008004e 00646464 40.00000000000000000000 1.00000000000000000000 20.00000000000000000000  40.00000000000000000000 4.00000000000000000000 0.00000000000000000000  40.00000000000000000000 4.00000000000000000000 20.00000000000000000000
 Triangle 8008007c 00646464 40.00000000000000000000 1.00000000000000000000 20.00000000000000000000  40.00000000000000000000 4.00000000000000000000 20.00000000000000000000  -40.00000000000000000000 1.00000000000000000000 20.00000000000000000000
 Triangle 8008007c 00646464 -40.00000000000000000000 1.00000000000000000000 20.00000000000000000000  40.00000000000000000000 4.00000000000000000000 20.00000000000000000000  -40.00000000000000000000 4.00000000000000000000 20.00000000000000000000
@@ -7862,9 +7858,9 @@ Triangle 8008007c 00646464 -39.00000000000000000000 0.00000000000000000000 20.00
 Triangle 00000000 00646464 39.00000000000000000000 0.00000000000000000000 0.00000000000000000000  39.70710678118654612945 0.29289321881345248277 0.00000000000000000000  39.00000000000000000000 0.00000000000000000000 20.00000000000000000000
 Triangle 00000000 00646464 39.00000000000000000000 0.00000000000000000000 20.00000000000000000000  39.70710678118654612945 0.29289321881345248277 0.00000000000000000000  39.70710678118654612945 0.29289321881345248277 20.00000000000000000000
 Triangle 80080057 00646464 -39.00000000000000000000 0.00000000000000000000 20.00000000000000000000  39.00000000000000000000 0.00000000000000000000 0.00000000000000000000  39.00000000000000000000 0.00000000000000000000 20.00000000000000000000
-Triangle 80080069 00646464 4.04443042702799804289 9.99935962071865525047 17.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 17.00000000000000000000  -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000
-Triangle 80080069 00646464 -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 17.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000
-Triangle 80080069 00646464 -29.61026457412706136552 9.99851654493673436264 0.00000000000000000000  -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000
+Triangle 80080069 00646464 4.00004453444152474617 9.99935850881819199287 17.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 17.00000000000000000000  -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000
+Triangle 80080069 00646464 -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 17.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000
+Triangle 80080069 00646464 -29.61026457412706136552 9.99851654493673436264 0.00000000000000000000  -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000
 Triangle 80080060 00646464 -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000  -40.00000000000000000000 4.00000000000000000000 0.00000000000000000000  -40.00000000000000000000 4.00000000000000000000 20.00000000000000000000
 Triangle 80080060 00646464 -29.61026457412706136552 9.99851654493673436264 0.00000000000000000000  -40.00000000000000000000 4.00000000000000000000 0.00000000000000000000  -29.61026457412706136552 9.99851654493673436264 20.00000000000000000000
 Triangle 80080038 00646464 -40.00000000000000000000 4.00000000000000000000 20.00000000000000000000  -40.00000000000000000000 1.00000000000000000000 0.00000000000000000000  -40.00000000000000000000 1.00000000000000000000 20.00000000000000000000
@@ -7873,12 +7869,12 @@ Triangle 00000000 00646464 -40.00000000000000000000 1.00000000000000000000 0.000
 Triangle 00000000 00646464 -40.00000000000000000000 1.00000000000000000000 20.00000000000000000000  -39.70710678118648928603 0.29289321881340796283 0.00000000000000000000  -39.70710678118654612945 0.29289321881345237175 20.00000000000000000000
 Triangle 00000000 00646464 -39.70710678118648928603 0.29289321881340796283 0.00000000000000000000  -39.00000000000000000000 0.00000000000000000000 0.00000000000000000000  -39.70710678118654612945 0.29289321881345237175 20.00000000000000000000
 Triangle 00000000 00646464 -39.70710678118654612945 0.29289321881345237175 20.00000000000000000000  -39.00000000000000000000 0.00000000000000000000 0.00000000000000000000  -39.00000000000000000000 0.00000000000000000000 20.00000000000000000000
-Triangle 800a003e 00646464 0.04438688096433122954 10.34233636648602328023 5.50000000000000000000  -3.55561311903566901194 12.42079733556867537914 5.50000000000000000000  3.64438688096433116570 12.42079733556867537914 5.50000000000000000000
-Triangle 800a002b 00646464 3.64438688096433116570 12.42079733556867537914 3.00000000000000000000  0.04438688096433122954 10.34233636648602328023 3.00000000000000000000  3.64438688096433116570 12.42079733556867537914 5.50000000000000000000
-Triangle 800a002b 00646464 3.64438688096433116570 12.42079733556867537914 5.50000000000000000000  0.04438688096433122954 10.34233636648602328023 3.00000000000000000000  0.04438688096433122954 10.34233636648602328023 5.50000000000000000000
-Triangle 800a0010 00646464 0.04438688096433122954 10.34233636648602328023 5.50000000000000000000  -3.55561311903566901194 12.42079733556867537914 3.00000000000000000000  -3.55561311903566901194 12.42079733556867537914 5.50000000000000000000
-Triangle 800a0010 00646464 0.04438688096433122954 10.34233636648602328023 3.00000000000000000000  -3.55561311903566901194 12.42079733556867537914 3.00000000000000000000  0.04438688096433122954 10.34233636648602328023 5.50000000000000000000
-Triangle 8008007d 00646464 -29.61026457412706136552 9.99851654493673436264 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  -40.00000000000000000000 4.00000000000000000000 0.00000000000000000000
-Triangle 8008007d 00646464 -39.70710678118648928603 0.29289321881340796283 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  -39.00000000000000000000 0.00000000000000000000 0.00000000000000000000
-Triangle 8008007d 00646464 -40.00000000000000000000 1.00000000000000000000 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  -39.70710678118648928603 0.29289321881340796283 0.00000000000000000000
-Triangle 8008007d 00646464 -40.00000000000000000000 4.00000000000000000000 0.00000000000000000000  -3.95561311903566847903 9.99915921352531356092 0.00000000000000000000  -40.00000000000000000000 1.00000000000000000000 0.00000000000000000000
+Triangle 800a003e 00646464 0.00000000000000000000 10.34233636789799071209 5.50000000000000000000  -3.60000000000000008882 12.42079733698064458736 5.50000000000000000000  3.60000000000000008882 12.42079733698064458736 5.50000000000000000000
+Triangle 800a002b 00646464 3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  0.00000000000000000000 10.34233636789799071209 3.00000000000000000000  3.60000000000000008882 12.42079733698064458736 5.50000000000000000000
+Triangle 800a002b 00646464 3.60000000000000008882 12.42079733698064458736 5.50000000000000000000  0.00000000000000000000 10.34233636789799071209 3.00000000000000000000  0.00000000000000000000 10.34233636789799071209 5.50000000000000000000
+Triangle 800a0010 00646464 0.00000000000000000000 10.34233636789799071209 5.50000000000000000000  -3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  -3.60000000000000008882 12.42079733698064458736 5.50000000000000000000
+Triangle 800a0010 00646464 0.00000000000000000000 10.34233636789799071209 3.00000000000000000000  -3.60000000000000008882 12.42079733698064458736 3.00000000000000000000  0.00000000000000000000 10.34233636789799071209 5.50000000000000000000
+Triangle 8008007d 00646464 -40.00000000000000000000 4.00000000000000000000 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  -40.00000000000000000000 1.00000000000000000000 0.00000000000000000000
+Triangle 8008007d 00646464 -40.00000000000000000000 1.00000000000000000000 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  -39.70710678118648928603 0.29289321881340796283 0.00000000000000000000
+Triangle 8008007d 00646464 -39.70710678118648928603 0.29289321881340796283 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  -39.00000000000000000000 0.00000000000000000000 0.00000000000000000000
+Triangle 8008007d 00646464 -29.61026457412706136552 9.99851654493673436264 0.00000000000000000000  -4.00000000000000000000 9.99915810160008611263 0.00000000000000000000  -40.00000000000000000000 4.00000000000000000000 0.00000000000000000000
